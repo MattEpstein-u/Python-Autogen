@@ -1,0 +1,567 @@
+
+[user]: Original Request: Plan a 4-day trip to Mexico City. Provide suggestions for activities, places to visit, and language tips.
+
+Below are suggestions from your team:
+
+--- planner_agent suggestions ---
+¡Qué emoción! Mexico City is a vibrant, bustling metropolis with an incredible mix of ancient history, colonial charm, world-class museums, and a legendary food scene. Four days will give you a fantastic taste of the city.
+
+Here's a suggested itinerary, packed with activities, places to visit, and some language tips to help you make the most of your trip:
+
+---
+
+## 4-Day Mexico City Adventure: Culture, Cuisine & Charm
+
+### General Tips Before You Go:
+
+*   **Altitude Sickness:** Mexico City is at over 7,300 feet (2,240 meters). Take it easy on your first day, stay hydrated, and avoid heavy alcohol consumption initially.
+*   **Transportation:** Uber and DiDi are widely available, affordable, and safe. The Metro is efficient but can be crowded, especially during rush hour.
+*   **Safety:** Be aware of your surroundings, especially at night. Keep valuables secure and avoid walking alone in poorly lit areas. Use common sense as you would in any major city.
+*   **Money:** The local currency is the Mexican Peso (MXN). ATMs are widely available. Tipping is customary (10-15% in restaurants, a few pesos for services).
+*   **Pre-Book Tickets:** For popular attractions like the Frida Kahlo Museum (Casa Azul), *definitely* book your tickets online well in advance to avoid long queues or disappointment.
+
+---
+
+### Day 1: Historic Heart & Grand Architecture
+
+**Theme:** Immerse yourself in the history and grandeur of Mexico City's colonial past and ancient roots.
+
+*   **Morning (9:00 AM - 1:00 PM): Zócalo & Templo Mayor**
+    *   Start at the **Zócalo** (Plaza de la Constitución), one of the world's largest public squares.
+    *   Visit the **Metropolitan Cathedral (Catedral Metropolitana)**, a stunning example of colonial architecture.
+    *   Explore the **Templo Mayor Museum & Ruins**: Discover the excavated ruins of the Aztec capital, Tenochtitlan, right next to the cathedral. A fascinating contrast of civilizations.
+    *   **National Palace (Palacio Nacional):** If open to the public (check beforehand, sometimes it's closed for official business), visit to see Diego Rivera's incredible murals depicting Mexican history.
+*   **Lunch (1:00 PM - 2:00 PM):** Enjoy traditional Mexican food at a restaurant near the Zócalo, or grab some delicious street food.
+*   **Afternoon (2:00 PM - 5:00 PM): Palacio de Bellas Artes & Torre Latinoamericana**
+    *   Walk along **Avenida Madero**, a vibrant pedestrian street, towards the **Palacio de Bellas Artes**. Admire its stunning Art Deco and Neoclassical architecture. You can enter to see the interior (often hosts art exhibitions or performances) or just enjoy the exterior.
+    *   Across from Bellas Artes, head up the **Torre Latinoamericana** for panoramic views of the entire city – especially beautiful at sunset.
+*   **Evening (6:00 PM onwards): Dinner & Lucha Libre (Optional)**
+    *   **Dinner:** Explore the Centro Histórico for dinner.
+    *   **Optional - Lucha Libre:** If it's a Tuesday, Friday, or Sunday, consider catching a thrilling **Lucha Libre** (Mexican wrestling) show at Arena México. It's a truly unique cultural experience! (Book tickets through a tour or directly at the arena).
+
+---
+
+### Day 2: Art, Culture & Green Spaces
+
+**Theme:** Delve into pre-Hispanic art, enjoy one of the world's largest city parks, and explore trendy neighborhoods.
+
+*   **Morning (9:30 AM - 1:30 PM): Museo Nacional de Antropología**
+    *   Take an Uber/DiDi to **Chapultepec Park (Bosque de Chapultepec)**.
+    *   Spend the morning at the **National Museum of Anthropology (Museo Nacional de Antropología)**. This is one of the best museums in the world, showcasing Mexico's pre-Hispanic cultures. You could easily spend half a day here.
+*   **Lunch (1:30 PM - 2:30 PM):** Grab a bite at the museum's cafe, or find a restaurant in the nearby Polanco neighborhood.
+*   **Afternoon (2:30 PM - 5:30 PM): Chapultepec Castle & Roma Norte/Condesa**
+    *   **Chapultepec Castle (Castillo de Chapultepec):** If you have energy after the museum, climb up to the beautiful castle, which offers more history and great views.
+    *   **Explore Roma Norte & Condesa:** Take an Uber/DiDi to these charming, tree-lined neighborhoods. Stroll through their streets, admire the Art Deco architecture, browse boutiques, and relax in Parque México or Parque España.
+*   **Evening (6:00 PM onwards): Trendy Dinner & Rooftop Bar**
+    *   **Dinner:** Enjoy dinner at one of the many excellent restaurants in Roma Norte or Condesa, known for their culinary scene.
+    *   **Drinks:** Find a chic rooftop bar in the area for a final drink and enjoy the evening ambiance.
+
+---
+
+### Day 3: Bohemian Charms & Artistic Legacies
+
+**Theme:** Immerse yourself in the bohemian spirit of Coyoacán and the world of Frida Kahlo.
+
+*   **Morning (9:00 AM - 1:00 PM): Coyoacán & Casa Azul**
+    *   Take an Uber/DiDi to the picturesque neighborhood of **Coyoacán**.
+    *   **Museo Frida Kahlo (Casa Azul):** This is a must-see! Explore Frida Kahlo's iconic blue house, where she was born, lived, and died. **Crucially, book your tickets online well in advance.**
+    *   After the museum, wander through Coyoacán's charming main squares, **Jardín Centenario** and **Plaza Hidalgo**.
+*   **Lunch (1:00 PM - 2:00 PM):** Enjoy Coyoacán's culinary delights. Try the tostadas at the Mercado de Coyoacán, or famous churros from El Moro.
+*   **Afternoon (2:00 PM - 5:00 PM): Coyoacán Exploration or San Ángel**
+    *   **Option 1 (Coyoacán Deep Dive):** Continue exploring Coyoacán. Visit the Museo Casa de León Trotsky or simply enjoy the artisan markets and street performers.
+    *   **Option 2 (San Ángel - Saturdays are best):** If it's a Saturday, take a short ride to the nearby **San Ángel** neighborhood for its beautiful **Bazar Sábado (Saturday Bazaar)**, featuring crafts, art, and antiques. Even on other days, San Ángel is charming for a stroll.
+*   **Evening (6:00 PM onwards): Relaxed Dinner & Mezcal Tasting**
+    *   **Dinner:** Head back to Roma Norte/Condesa or try a different restaurant in Coyoacán.
+    *   **Drinks:** Consider a mezcal tasting at a dedicated mezcalería to experience this smoky agave spirit.
+
+---
+
+### Day 4: Ancient Pyramids & Departure
+
+**Theme:** Journey to an ancient civilization before heading home.
+
+*   **Morning/Afternoon (8:00 AM - 3:00 PM): Teotihuacan Pyramids**
+    *   This is a half-day trip minimum. You can:
+        *   **Join a guided tour:** Many tours leave from central Mexico City and include transportation.
+        *   **Take a public bus:** Go to the Autobuses del Norte station and look for buses to "Pirámides."
+        *   **Hire an Uber/DiDi:** Agree on a round-trip fare with the driver, as they will wait for you.
+    *   Explore the magnificent **Pyramids of Teotihuacan**, including the Pyramid of the Sun and the Pyramid of the Moon, and walk along the Avenue of the Dead. Try to get there early to beat the crowds and the heat.
+*   **Lunch (3:00 PM - 4:00 PM):** Have lunch near the pyramids (some restaurants are integrated into the complex, or try the famous cave restaurant, "La Gruta") or upon returning to the city.
+*   **Late Afternoon (4:00 PM - 6:00 PM): Last-Minute Souvenirs / Relaxation**
+    *   Depending on your flight schedule, you can do some last-minute souvenir shopping (La Ciudadela artisan market is good for this) or simply relax at a cafe.
+*   **Evening:** Head to Mexico City International Airport (MEX) for your departure.
+
+---
+
+## Language Tips for Mexico City:
+
+While many people in tourist areas speak some English, making an effort to speak Spanish will be greatly appreciated and enhance your experience.
+
+**Essential Phrases:**
+
+*   **Hello:** *Hola* (OH-lah)
+*   **Good morning/day:** *Buenos días* (BWEH-nohs DEE-ahs)
+*   **Good afternoon/evening:** *Buenas tardes* (BWEH-nahs TAR-dehs)
+*   **Good night:** *Buenas noches* (BWEH-nahs NOH-chehs)
+*   **Please:** *Por favor* (por fah-VOR)
+*   **Thank you:** *Gracias* (GRAH-see-ahs)
+*   **You're welcome:** *De nada* (deh NAH-dah)
+*   **Excuse me (to get attention/pass by):** *Con permiso* (kohn per-MEE-soh)
+*   **Excuse me (to apologize):** *Perdón* (per-DOHN)
+*   **Yes:** *Sí* (see)
+*   **No:** *No* (noh)
+*   **How much does it cost?:** *¿Cuánto cuesta?* (KWAHN-toh KWES-tah?)
+*   **The bill, please:** *La cuenta, por favor* (lah KWEN-tah, por fah-VOR)
+*   **I don't understand:** *No entiendo* (noh en-TYEN-doh)
+*   **Do you speak English?:** *¿Habla inglés?* (AH-blah een-GLEHS?)
+*   **A little:** *Un poco* (oon POH-koh)
+*   **Water:** *Agua* (AH-gwah)
+*   **Beer:** *Cerveza* (ser-VEH-sah)
+*   **Coffee:** *Café* (kah-FEH)
+*   **Restroom:** *Baño* (BAH-nyoh)
+*   **Where is...?:** *¿Dónde está...?* (DOHN-deh es-TAH...?)
+*   **To go (for food):** *Para llevar* (PAH-rah yeh-VAR)
+*   **Here/For here (for food):** *Para aquí* (PAH-rah ah-KEE)
+*   **Delicious:** *¡Delicioso!* (deh-lee-SYOH-soh!) or *¡Qué rico!* (keh REE-koh!)
+
+**Cultural Tip:**
+
+*   **Greeting:** It's polite to say *Hola* or *Buenos días/tardes/noches* when entering a shop or restaurant, and *Gracias* when leaving.
+*   **Politeness:** Use *por favor* and *gracias* frequently.
+*   **Effort is Key:** Don't be afraid to try! Even imperfect Spanish shows respect and willingness to engage. Locals are generally very patient and happy to help.
+
+Enjoy your incredible trip to Mexico City! ¡Buen viaje!
+
+--- local_agent suggestions ---
+¡Qué emoción! Mexico City (CDMX) is an incredible destination, bursting with history, art, incredible food, and vibrant culture. Here's a 4-day itinerary designed to give you a taste of its diverse offerings, along with some language tips to help you navigate.
+
+---
+
+## 4-Day Mexico City Adventure: Culture, Cuisine & Charm
+
+### General Tips Before You Go:
+
+*   **Altitude Sickness:** CDMX is over 7,000 feet above sea level. Take it easy on your first day, stay hydrated, and avoid excessive alcohol.
+*   **Transportation:**
+    *   **Uber/DiDi:** Widely available, affordable, and safe for getting around.
+    *   **Metro:** Efficient and very cheap (5 pesos per ride!), but can be crowded, especially during rush hour. It's a great way to experience local life.
+    *   **Walking:** Many neighborhoods are very walkable, like Roma, Condesa, and the Historic Center.
+*   **Safety:** Be aware of your surroundings, especially in crowded areas. Keep valuables secure and avoid walking alone late at night in unfamiliar areas.
+*   **Cash:** Have small denominations for street food vendors, market purchases, and tips.
+*   **Water:** Drink bottled water only.
+*   **Book Ahead:** For popular attractions like the Frida Kahlo Museum ("Casa Azul") and some restaurants, reservations are essential.
+*   **Museums:** Most museums are closed on Mondays.
+
+---
+
+### Day 1: Historic Grandeur & Artistic Expressions
+
+**Theme:** The Heart of Mexico, Ancient Roots & Colonial Splendor
+
+*   **Morning (9:00 AM - 1:00 PM): Zócalo & Surrounds**
+    *   Start at the **Zócalo** (Plaza de la Constitución), one of the largest public squares in the world.
+    *   Visit the **Metropolitan Cathedral (Catedral Metropolitana)**, a magnificent colonial structure built over centuries.
+    *   Explore the **Palacio Nacional** (National Palace) to see Diego Rivera's incredible murals depicting Mexican history (requires ID, and access can sometimes be restricted).
+    *   Wander through the archaeological site of **Templo Mayor**, the main temple of the Aztec capital, Tenochtitlan, with its excellent museum.
+*   **Lunch (1:00 PM - 2:30 PM): Traditional Mexican Fare**
+    *   Grab some **tacos al pastor** from a bustling street stand near the Zócalo, or try a traditional fonda (small, family-run restaurant) for a *comida corrida* (set lunch menu).
+*   **Afternoon (2:30 PM - 6:00 PM): Art & Architecture**
+    *   Walk to the stunning **Palacio de Bellas Artes** (Palace of Fine Arts). Admire its Art Nouveau and Art Deco architecture from the outside, and consider going inside to see murals by Rivera, Siqueiros, and Orozco, or catch a performance if available.
+    *   Visit the **Palacio de Correos de México** (Main Post Office) for its breathtaking architecture.
+    *   Stroll through **Alameda Central**, a beautiful park adjacent to Bellas Artes.
+*   **Evening (7:00 PM onwards): Dinner & Rooftop Views**
+    *   Enjoy dinner in the Historic Center. For a classic experience with beautiful views, try **El Mayor** (rooftop restaurant above a bookstore, overlooking Templo Mayor).
+    *   Optional: Catch a performance of the **Ballet Folklórico de México** at Bellas Artes (usually Wednesdays and Sundays, book far in advance!).
+
+### Day 2: Culture, Green Spaces & World-Class Museums
+
+**Theme:** Chapultepec Park, Anthropology & Modern Art
+
+*   **Morning (9:30 AM - 1:00 PM): Bosque de Chapultepec & Anthropology**
+    *   Head to **Bosque de Chapultepec**, one of the largest city parks in the world.
+    *   Spend a few hours at the **National Museum of Anthropology (Museo Nacional de Antropología)**. It's truly world-class, so prioritize the Aztec (Mexica) and Maya halls.
+*   **Lunch (1:00 PM - 2:30 PM): Casual Park Dining or Polanco**
+    *   There are small food vendors in Chapultepec Park, or you can walk over to the upscale Polanco neighborhood for a more refined lunch.
+*   **Afternoon (2:30 PM - 6:00 PM): History & Views**
+    *   Walk up to **Castillo de Chapultepec (Chapultepec Castle)**, the only royal castle in North America. It offers stunning views of the city and houses the National Museum of History.
+    *   Optional (if time/energy permits): Visit the **Museo Tamayo Arte Contemporáneo** or the **Museo de Arte Moderno** located within Chapultepec Park for a dose of modern art.
+*   **Evening (7:00 PM onwards): Roma Norte Exploration**
+    *   Take an Uber/DiDi to **Roma Norte**. This bohemian neighborhood is full of tree-lined streets, art deco architecture, and fantastic restaurants.
+    *   Walk around the charming **Plaza Río de Janeiro** and **Fuente de Cibeles**.
+    *   Choose from countless trendy restaurants for dinner. Options range from casual taco joints to upscale dining.
+
+### Day 3: Ancient Wonders & Bohemian Charm
+
+**Theme:** Pyramids & Coyoacán's Enchanting Streets
+
+*   **Morning (7:00 AM - 2:00 PM): Teotihuacan Pyramids**
+    *   This is an early start but totally worth it!
+    *   **Option 1 (Tour):** Book a guided tour (many include hotel pickup and sometimes a stop at a obsidian workshop or tasting of pulque/mezcal). This is the easiest option.
+    *   **Option 2 (Public Bus):** Take an Uber/DiDi to the **Autobuses del Norte** station. Go to gate 8 ("Pirámides") and buy a ticket for Teotihuacan. Buses leave frequently. The journey is about an hour.
+    *   Spend at least 3-4 hours exploring the **Pyramid of the Sun**, **Pyramid of the Moon**, and the **Avenue of the Dead**. Wear comfortable shoes, a hat, and bring water!
+    *   Have lunch near the pyramids or back in the city.
+*   **Afternoon (3:30 PM - 6:30 PM): Coyoacán's Magic**
+    *   Head to the charming colonial neighborhood of **Coyoacán**.
+    *   **Important:** Visit the **Frida Kahlo Museum (Casa Azul)**. You MUST buy tickets online *weeks* in advance; they often sell out. If you don't have tickets, you likely won't get in.
+    *   Wander through the main squares, **Jardín Centenario** and **Plaza Hidalgo**, admiring the coyote fountain and the historic church.
+    *   Browse the **Mercado de Coyoacán** for crafts, food, and local atmosphere. Try a *tostada* from one of the famous tostada stands.
+*   **Evening (7:00 PM onwards): Coyoacán Dinner & Dessert**
+    *   Enjoy dinner at one of Coyoacán's many restaurants, from traditional to modern.
+    *   Don't leave without trying a churro from **Churrería El Moro** (they have locations across the city, including Coyoacán, and are open late!).
+
+### Day 4: Colorful Boats, Crafts & Farewell Flavors
+
+**Theme:** Traditional Boats, Markets & Last Bites
+
+*   **Morning (9:00 AM - 1:00 PM): Xochimilco's Floating Gardens**
+    *   Take an Uber/DiDi or Metro to **Xochimilco** (approx. 45 min to 1 hour from the city center).
+    *   Hire a colorful **trajinera** (flat-bottomed boat) for a ride through the ancient canals, known as "floating gardens." This is a unique and festive experience, often accompanied by mariachi bands, food vendors, and flower sellers on other boats. You can share a boat with others to reduce costs.
+    *   *Tip:* Agree on the price *before* getting on the boat.
+*   **Lunch (1:00 PM - 2:30 PM): Xochimilco or San Ángel**
+    *   You can buy food from vendors on boats in Xochimilco, or head to the charming neighborhood of **San Ángel** afterwards for lunch.
+*   **Afternoon (2:30 PM - 6:00 PM): San Ángel & Shopping**
+    *   Explore **San Ángel**, a beautiful, artistic neighborhood.
+    *   If it's a Saturday, definitely visit **Bazar Sábado**, an incredible artisan market. Even if it's not Saturday, the area is lovely for a stroll, with cobblestone streets, colonial mansions, and art galleries.
+    *   Do some last-minute souvenir shopping.
+*   **Evening (7:00 PM onwards): Farewell Dinner & Speakeasy**
+    *   Choose a final dinner location based on what you've enjoyed most:
+        *   **Condesa:** For a stylish and lively atmosphere.
+        *   **Roma Norte:** For innovative cuisine.
+        *   **Historic Center:** For a classic send-off.
+    *   Optional: Seek out a speakeasy or a mezcal bar for a sophisticated end to your trip.
+
+---
+
+### Language Tips for Mexico City:
+
+While many people in tourist areas speak some English, knowing a few Spanish phrases will greatly enhance your experience and show respect for the local culture.
+
+**Essential Phrases:**
+
+*   **Hola:** Hello
+*   **Adiós:** Goodbye
+*   **Por favor:** Please
+*   **Gracias:** Thank you
+*   **De nada:** You're welcome
+*   **Sí / No:** Yes / No
+*   **Perdón / Con permiso:** Excuse me (to get attention / to pass through a crowd)
+*   **Lo siento:** I'm sorry
+*   **¿Cuánto cuesta?:** How much does it cost?
+*   **La cuenta, por favor:** The check, please
+*   **¿Dónde está...?:** Where is...?
+*   **Me gustaría...:** I would like...
+*   **No entiendo:** I don't understand
+*   **¿Habla inglés?:** Do you speak English?
+*   **Un poco de español:** A little Spanish
+*   **Ayuda:** Help!
+*   **Agua:** Water
+*   **Café:** Coffee
+*   **Cerveza:** Beer
+*   **Taco / Tacos:** Taco / Tacos
+*   **Desayuno / Almuerzo / Cena:** Breakfast / Lunch / Dinner (note: *almuerzo* can be "lunch" or a mid-morning meal, *comida* is often used for lunch in Mexico)
+*   **Picante:** Spicy
+*   **No picante, por favor:** Not spicy, please.
+*   **Izquierda / Derecha / Todo recto:** Left / Right / Straight ahead
+
+**Cultural Nuances:**
+
+*   **Politeness:** Mexicans are very polite. Always start interactions with *Hola* and end with *Gracias*. Adding *Por favor* is essential.
+*   **Diminutives:** You'll often hear "ito/ita" added to words (e.g., *ahorita* for "right now" but often meaning "later," *cafecito* for a small coffee). This often softens the request or adds affection.
+*   **Greetings:** A simple nod or "Hola" is fine, but if you're interacting more closely, be prepared for a hand-shake or a light kiss on the cheek (between women, or a woman and a man).
+*   **"Buen provecho!"**: People often say this when you are eating, meaning "enjoy your meal!" You can reply with "Gracias."
+*   **Patience:** Things might operate on a slightly different time scale than you're used to. Embrace it!
+
+**Pro Tip:** Download an offline Spanish dictionary app or Google Translate for quick lookups. And don't be afraid to try your Spanish – locals appreciate the effort!
+
+Enjoy your incredible trip to Mexico City!
+
+--- language_agent suggestions ---
+Mexico City, or CDMX as locals call it, is a vibrant, sprawling metropolis brimming with history, art, incredible food, and captivating culture. A 4-day trip allows you to explore its highlights while offering a taste of its diverse neighborhoods.
+
+Here's a suggested itinerary, along with critical language and communication tips to enhance your experience:
+
+---
+
+## 4-Day Mexico City Itinerary
+
+### Day 1: Historic Center & Cultural Immersion
+
+*   **Morning (9:00 AM - 1:00 PM): Zócalo & Templo Mayor**
+    *   Start at the **Zócalo**, one of the largest city squares in the world.
+    *   Visit the **Metropolitan Cathedral**, a magnificent colonial structure built over centuries.
+    *   Explore the **National Palace** (if open to visitors, check in advance, often requires ID) to see Diego Rivera's powerful murals depicting Mexican history.
+    *   Step back in time at the **Templo Mayor**, the main temple of the Aztec capital, Tenochtitlan, with its fascinating museum of artifacts.
+*   **Lunch (1:00 PM - 2:30 PM): Traditional Mexican Cuisine**
+    *   Grab lunch at a traditional restaurant around the Zócalo, or try some street food like *tacos al pastor* or *tostadas*.
+*   **Afternoon (2:30 PM - 6:00 PM): Palacio de Bellas Artes & Torre Latinoamericana**
+    *   Walk to the stunning **Palacio de Bellas Artes**, an architectural masterpiece housing murals by Rivera, Siqueiros, and Orozco, and often ballet performances. Even if you don't go inside for a show, admire its exterior and interior lobby.
+    *   For panoramic views of the city, ascend the **Torre Latinoamericana** for a breathtaking perspective, especially good around sunset.
+*   **Evening (7:00 PM onwards): Dinner & Mariachis (Optional)**
+    *   Enjoy dinner in the Historic Center. For a lively experience, head to **Plaza Garibaldi** (take a taxi/Uber) to listen to mariachi bands, though be mindful of your surroundings.
+
+### Day 2: Art, Parks & Trendy Neighborhoods
+
+*   **Morning (9:30 AM - 1:00 PM): Chapultepec Park & Castillo**
+    *   Take an Uber/Metro to **Chapultepec Park**, one of the largest city parks in the world.
+    *   Ascend to the **Castillo de Chapultepec**, Mexico's only royal castle, offering stunning city views and historical exhibits.
+*   **Lunch (1:00 PM - 2:30 PM): Museum of Anthropology**
+    *   Walk to the nearby **National Museum of Anthropology**, one of the best museums globally. Focus on the main Aztec/Maya/Teotihuacan halls, as you could spend days here. The museum also has a great restaurant/cafe.
+*   **Afternoon (3:00 PM - 6:30 PM): Roma Norte & Condesa Exploration**
+    *   Head to the stylish neighborhoods of **Roma Norte** and **Condesa**. Wander through tree-lined streets, admire Art Deco architecture, browse boutique shops, and relax in parks like **Parque México** or **Parque España**.
+*   **Evening (7:00 PM onwards): Dinner in Roma/Condesa**
+    *   These neighborhoods boast some of CDMX's best culinary experiences, from casual eateries to high-end dining. Choose a spot that suits your taste.
+
+### Day 3: Frida Kahlo, Coyoacán & Markets
+
+*   **Morning (9:30 AM - 1:00 PM): Coyoacán & Casa Azul**
+    *   Take an Uber/Metro to the charming, bohemian neighborhood of **Coyoacán**.
+    *   Visit the **Frida Kahlo Museum (Casa Azul)**. **Crucial Tip: Book tickets online weeks in advance** as they sell out quickly. It's a deeply personal insight into her life and art.
+*   **Lunch (1:00 PM - 2:30 PM): Coyoacán Market & Street Food**
+    *   Explore the bustling **Mercado de Coyoacán** for unique crafts, local produce, and delicious street food like *tostadas* (the market has famous tostada stalls) or *quesadillas*.
+*   **Afternoon (2:30 PM - 5:30 PM): Coyoacán Squares & Trotskys House**
+    *   Stroll through **Jardín Centenario** and **Jardín Hidalgo**, the main squares of Coyoacán, soaking in the relaxed atmosphere. Enjoy a *churro* or coffee.
+    *   Optionally, visit the **Leon Trotsky House Museum**, where the exiled Russian revolutionary lived and was assassinated.
+*   **Evening (6:30 PM onwards): Farewell Dinner or Lucha Libre (Optional)**
+    *   Enjoy a relaxed dinner back in your preferred neighborhood.
+    *   **Optional Thrill:** Catch a **Lucha Libre** (Mexican wrestling) show at Arena México (usually Tuesdays, Fridays, and Sundays). It's a vibrant, theatrical spectacle!
+
+### Day 4: Ancient Wonders or Modern Art
+
+*   **Option A: Teotihuacán Pyramids (Half-Day Trip)**
+    *   **Morning (8:00 AM - 3:00 PM):** Take an early bus from Autobuses del Norte (approximately 1 hour each way) or join a guided tour to the awe-inspiring ancient city of **Teotihuacán**.
+    *   Climb the **Pyramid of the Sun** and the **Pyramid of the Moon** (partial climbs sometimes restricted) and walk the **Avenue of the Dead**. Wear comfortable shoes, a hat, and bring water.
+    *   **Lunch:** Eat at one of the restaurants near the archaeological site.
+    *   **Afternoon/Evening:** Return to CDMX for a relaxing dinner.
+
+*   **Option B: Xochimilco OR Museums & Shopping (Within City)**
+    *   **Morning (10:00 AM - 1:00 PM): Xochimilco**
+        *   Take an Uber/light rail to **Xochimilco** for a colorful and unique experience on a *trajinera* (traditional pre-Hispanic boat) through the canals. It's a festive atmosphere with mariachis, food vendors, and floating gardens. Best enjoyed with a group.
+    *   **Lunch (1:00 PM - 2:30 PM):** Enjoy food from the floating vendors in Xochimilco or a local restaurant.
+    *   **Afternoon (3:00 PM - 6:00 PM): Museo Soumaya & Jumex Museum**
+        *   Head to the upscale Polanco neighborhood to visit the striking **Museo Soumaya** (private collection, free entry, diverse art from Rodin to Dali) and the contemporary **Museo Jumex**.
+    *   **Evening (7:00 PM onwards): Farewell Dinner in Polanco**
+        *   Polanco offers some of the city's most upscale and internationally recognized dining experiences.
+
+---
+
+## Important Language & Communication Tips for Mexico City
+
+While many people in tourist-heavy areas (Roma, Condesa, Polanco, major museums) speak some English, **relying solely on English is a mistake and will limit your experience.** Mexicans are generally very appreciative of any effort to speak their language.
+
+Here are critical tips to navigate communication challenges:
+
+1.  **Embrace Basic Spanish – It's Your Best Tool:**
+    *   **Greetings & Politeness:** Always start with *Hola, Buenos días/tardes/noches* (Hello, Good morning/afternoon/evening). Use *Por favor* (Please), *Gracias* (Thank you), *De nada* (You're welcome), and *Disculpe/Con permiso* (Excuse me/Pardon me) constantly. A simple *Lo siento* (I'm sorry) if you make a mistake goes a long way.
+    *   **Ordering Food:** *Quiero/Me gustaría...* (I want/I would like...), *¿Cuánto cuesta?* (How much does it cost?), *La cuenta, por favor* (The check, please). Learn names of common dishes you plan to try.
+    *   **Directions & Transport:** *¿Dónde está...?* (Where is...?), *A la izquierda/derecha* (To the left/right), *Derecho* (Straight). For taxis/Uber: *A esta dirección, por favor* (To this address, please).
+    *   **Numbers:** Crucial for prices, understanding times, and giving quantities. Practice 1-100.
+    *   **Don't Be Shy:** Even if your Spanish is broken, locals appreciate the effort. Most will be patient and try to understand you.
+
+2.  **Context is Key: English Proficiency Varies Wildly:**
+    *   **High-End & Tourist Hubs:** Hotels, fine dining, and major attractions in Polanco, Roma, and Condesa will likely have staff who speak English.
+    *   **Local Markets, Street Vendors, Taxis, Public Transport:** Outside these areas, expect minimal to no English. This is where your basic Spanish is truly invaluable for transactions, asking simple questions, and getting around.
+    *   **Uber/Ride-sharing:** Drivers might not speak English, but the app handles navigation, and you can use the in-app chat with translation features if needed.
+
+3.  **Leverage Technology (But Don't Over-Rely):**
+    *   **Google Translate (or similar):** Download the Spanish language pack for **offline use** before you arrive.
+        *   **Camera Feature:** Excellent for translating menus, signs, or labels quickly.
+        *   **Conversation Mode:** Can be helpful for back-and-forth communication, but it can be slow and sometimes clunky. Use it as a backup, not your primary communication method.
+    *   **Phrasebooks:** A small physical phrasebook can be useful if your phone battery dies or if you prefer a non-digital approach.
+
+4.  **Speak Slowly and Clearly; Listen Actively:**
+    *   Mexican Spanish can be spoken quickly. Don't be afraid to ask *¿Puede hablar más despacio, por favor?* (Can you speak more slowly, please?)
+    *   When you speak, try to enunciate clearly. A slower, clear delivery is more effective than fast, mumbled Spanish.
+
+5.  **Be Aware of Cultural Nuances (Formality Matters):**
+    *   **Formal "Usted":** It's common and polite to use *usted* (the formal "you") when addressing strangers, especially service staff, elders, or anyone you don't know well. Only use *tú* (informal "you") if invited to do so.
+    *   **Patience and a Smile:** A warm smile and a patient demeanor can smooth over many communication bumps. If you're struggling, show you're trying, and most people will be very helpful.
+
+6.  **Critical Emergency Phrases:**
+    *   Learn these just in case:
+        *   *¡Ayuda!* (Help!)
+        *   *¡Emergencia!* (Emergency!)
+        *   *Doctor* (Doctor)
+        *   *Hospital* (Hospital)
+        *   *Policía* (Police)
+        *   *Necesito ayuda* (I need help)
+    *   Have your hotel name and address written down, along with an emergency contact number (if applicable) in Spanish.
+
+By combining these practical tips with your willingness to engage, you'll find navigating Mexico City not only manageable but also a much richer and more rewarding experience! ¡Que disfrutes tu viaje! (Enjoy your trip!)
+
+Please compile these into a cohesive response.
+
+[travel_summary_agent]: Here is a detailed and integrated 4-day travel plan for your trip to Mexico City, combining all the excellent suggestions from your team. This plan balances historical immersion, artistic exploration, culinary delights, and unique cultural experiences.
+
+---
+
+## 4-Day Mexico City Adventure: Culture, Cuisine & Charm
+
+### General Tips Before You Go:
+
+*   **Altitude Sickness:** Mexico City sits over 7,300 feet (2,240 meters) above sea level. Take it easy on your first day, stay well-hydrated, and avoid heavy alcohol consumption initially.
+*   **Transportation:** **Uber** and **DiDi** are widely available, affordable, and safe for getting around. The **Metro** is efficient and very cheap (5 pesos per ride!), but can be crowded, especially during rush hour. Many neighborhoods, like Roma, Condesa, and the Historic Center, are very walkable.
+*   **Safety:** As with any major city, be aware of your surroundings, especially in crowded areas and at night. Keep valuables secure and avoid walking alone in poorly lit or unfamiliar areas. Use common sense.
+*   **Money:** The local currency is the Mexican Peso (MXN). ATMs are widely available. Have small denominations (pesos) for street food vendors, market purchases, and tips. Tipping is customary (10-15% in restaurants, a few pesos for services).
+*   **Pre-Book Tickets:** **Crucially, book tickets online well in advance** for popular attractions like the **Frida Kahlo Museum (Casa Azul)**, as they often sell out weeks ahead. Consider booking for the **Ballet Folklórico de México** or **Lucha Libre** if interested.
+*   **Museums:** Most museums in Mexico City are **closed on Mondays**.
+*   **Water:** Drink bottled water only.
+
+---
+
+### Day 1: Historic Heart & Grand Architecture
+
+**Theme:** Immerse yourself in the history and grandeur of Mexico City's colonial past and ancient roots.
+
+*   **Morning (9:00 AM - 1:00 PM): Zócalo & Templo Mayor**
+    *   Begin at the **Zócalo** (Plaza de la Constitución), one of the world's largest public squares.
+    *   Visit the magnificent **Metropolitan Cathedral (Catedral Metropolitana)**, a stunning example of colonial architecture built over centuries.
+    *   Explore the **Templo Mayor Museum & Ruins**: Discover the excavated ruins of the Aztec capital, Tenochtitlan, right next to the cathedral. A fascinating contrast of civilizations.
+    *   **National Palace (Palacio Nacional):** If open to the public (check beforehand, as it sometimes closes for official business; requires ID), visit to see Diego Rivera's incredible murals depicting Mexican history.
+*   **Lunch (1:00 PM - 2:30 PM): Traditional Mexican Fare**
+    *   Enjoy traditional Mexican food at a restaurant near the Zócalo. Options include grabbing delicious **tacos al pastor** from a bustling street stand, trying a traditional *fonda* (small, family-run restaurant) for a *comida corrida* (set lunch menu), or enjoying the rooftop views and cuisine at **El Mayor** (above a bookstore, overlooking Templo Mayor).
+*   **Afternoon (2:30 PM - 6:00 PM): Palacio de Bellas Artes & Torre Latinoamericana**
+    *   Stroll along **Avenida Madero**, a vibrant pedestrian street, towards the stunning **Palacio de Bellas Artes**. Admire its Art Nouveau and Art Deco architecture. You can enter to see the interior murals by Rivera, Siqueiros, and Orozco, or just enjoy the exterior.
+    *   Visit the breathtaking architecture of the **Palacio de Correos de México** (Main Post Office) nearby.
+    *   Walk through **Alameda Central**, a beautiful park adjacent to Bellas Artes.
+    *   Across from Bellas Artes, head up the **Torre Latinoamericana** for panoramic views of the entire city – especially beautiful around sunset.
+*   **Evening (7:00 PM onwards): Dinner & Cultural Show (Optional)**
+    *   **Dinner:** Explore the Historic Center for dinner.
+    *   **Optional - Ballet Folklórico de México:** If it's a Wednesday or Sunday, consider catching a performance of the **Ballet Folklórico de México** at Bellas Artes. **Book tickets far in advance!**
+    *   **Optional - Lucha Libre:** If it's a Tuesday, Friday, or Sunday, consider catching a thrilling **Lucha Libre** (Mexican wrestling) show at Arena México. It's a truly unique, vibrant cultural experience! (Book tickets through a tour or directly at the arena).
+    *   **Optional - Plaza Garibaldi:** For a lively experience, head to Plaza Garibaldi (take an Uber/taxi) to listen to mariachi bands, but be mindful of your surroundings.
+
+### Day 2: Art, Culture & Green Spaces
+
+**Theme:** Delve into pre-Hispanic art, enjoy one of the world's largest city parks, and explore trendy neighborhoods.
+
+*   **Morning (9:30 AM - 1:30 PM): Museo Nacional de Antropología**
+    *   Take an Uber/DiDi to **Chapultepec Park (Bosque de Chapultepec)**.
+    *   Spend the morning at the **National Museum of Anthropology (Museo Nacional de Antropología)**. This is one of the best museums in the world, showcasing Mexico's pre-Hispanic cultures. Prioritize the Aztec (Mexica) and Maya halls, and plan for at least 3-4 hours here.
+*   **Lunch (1:30 PM - 2:30 PM): Park Dining or Polanco**
+    *   Grab a bite at the museum's cafe, from small food vendors in Chapultepec Park, or walk over to the upscale Polanco neighborhood for a more refined lunch.
+*   **Afternoon (2:30 PM - 5:30 PM): Chapultepec Castle & Roma Norte/Condesa**
+    *   **Chapultepec Castle (Castillo de Chapultepec):** If you have energy after the museum, climb up to the beautiful castle, which houses the National Museum of History and offers more history and great views of the city.
+    *   **Explore Roma Norte & Condesa:** Take an Uber/DiDi to these charming, tree-lined neighborhoods. Stroll through their streets, admire the Art Deco and colonial architecture, browse boutiques, and relax in **Parque México** or **Parque España**. Check out **Plaza Río de Janeiro** and **Fuente de Cibeles**.
+*   **Evening (6:00 PM onwards): Trendy Dinner & Rooftop Bar**
+    *   **Dinner:** Enjoy dinner at one of the many excellent restaurants in Roma Norte or Condesa, known for their vibrant culinary scene, from casual taco joints to upscale dining.
+    *   **Drinks:** Find a chic rooftop bar in the area for a final drink and enjoy the evening ambiance.
+
+### Day 3: Bohemian Charms & Artistic Legacies
+
+**Theme:** Immerse yourself in the bohemian spirit of Coyoacán and the world of Frida Kahlo.
+
+*   **Morning (9:00 AM - 1:00 PM): Coyoacán & Casa Azul**
+    *   Take an Uber/DiDi to the picturesque neighborhood of **Coyoacán**.
+    *   **Museo Frida Kahlo (Casa Azul):** This is a must-see! Explore Frida Kahlo's iconic blue house, where she was born, lived, and died. **Crucially, book your tickets online *weeks* in advance; they often sell out.** If you don't have tickets, you likely won't get in.
+    *   After the museum, wander through Coyoacán's charming main squares, **Jardín Centenario** and **Plaza Hidalgo**, admiring the coyote fountain and historic church.
+*   **Lunch (1:00 PM - 2:30 PM): Coyoacán's Culinary Delights**
+    *   Explore the bustling **Mercado de Coyoacán** for unique crafts, local produce, and delicious street food. Try the famous *tostadas* at the market, or grab a tasty *quesadilla*.
+    *   Don't leave without trying churros from **Churrería El Moro** (they have locations across the city, including Coyoacán, and are open late!).
+*   **Afternoon (2:30 PM - 5:30 PM): Coyoacán Exploration or San Ángel**
+    *   **Option 1 (Coyoacán Deep Dive):** Continue exploring Coyoacán. Visit the **Museo Casa de León Trotsky** (where the exiled Russian revolutionary lived and was assassinated) or simply enjoy the artisan markets and street performers.
+    *   **Option 2 (San Ángel - Saturdays are best):** If it's a Saturday, take a short ride to the nearby **San Ángel** neighborhood for its beautiful **Bazar Sábado (Saturday Bazaar)**, featuring crafts, art, and antiques. Even on other days, San Ángel is charming for a stroll, with cobblestone streets, colonial mansions, and art galleries.
+*   **Evening (6:30 PM onwards): Relaxed Dinner & Mezcal Tasting**
+    *   **Dinner:** Head back to Roma Norte/Condesa, or try a different restaurant in Coyoacán.
+    *   **Drinks:** Consider a mezcal tasting at a dedicated *mezcalería* to experience this smoky agave spirit.
+
+### Day 4: Ancient Pyramids or Floating Gardens & Departure
+
+**Theme:** Journey to an ancient civilization or experience traditional boats and markets before heading home.
+
+Choose the option that best suits your interests and flight schedule:
+
+---
+
+**Option A: Teotihuacan Pyramids (Half-Day Trip)**
+
+*   **Morning/Afternoon (8:00 AM - 3:00 PM): Teotihuacan Pyramids**
+    *   This is a half-day trip minimum, and an early start is highly recommended to beat the crowds and heat.
+    *   **Transportation:**
+        *   **Join a guided tour:** Many tours leave from central Mexico City and include transportation. This is the easiest option.
+        *   **Take a public bus:** Go to the Autobuses del Norte station, head to gate 8, and look for buses to "Pirámides." Buses leave frequently, and the journey is about an hour.
+        *   **Hire an Uber/DiDi:** Agree on a round-trip fare with the driver, as they will wait for you.
+    *   Explore the magnificent **Pyramids of Teotihuacan**, including the Pyramid of the Sun and the Pyramid of the Moon, and walk along the Avenue of the Dead. Wear comfortable shoes, a hat, and bring water.
+*   **Lunch (3:00 PM - 4:00 PM):** Have lunch near the pyramids (some restaurants are integrated into the complex, or try the famous cave restaurant, "La Gruta") or upon returning to the city.
+*   **Late Afternoon (4:00 PM - 6:00 PM): Last-Minute Souvenirs / Relaxation**
+    *   Depending on your flight schedule, you can do some last-minute souvenir shopping (La Ciudadela artisan market is good for this) or simply relax at a cafe.
+*   **Evening:** Head to Mexico City International Airport (MEX) for your departure.
+
+---
+
+**Option B: Xochimilco & San Ángel/Museums (Within City)**
+
+*   **Morning (9:00 AM - 1:00 PM): Xochimilco's Floating Gardens**
+    *   Take an Uber/DiDi or Metro to **Xochimilco** (approx. 45 min to 1 hour from the city center).
+    *   Hire a colorful **trajinera** (flat-bottomed boat) for a ride through the ancient canals, known as "floating gardens." This is a unique and festive experience, often accompanied by mariachi bands, food vendors, and flower sellers on other boats. You can share a boat with others to reduce costs. **Tip:** Agree on the price *before* getting on the boat.
+*   **Lunch (1:00 PM - 2:30 PM): Xochimilco or San Ángel**
+    *   You can buy food from vendors on boats in Xochimilco, or head to the charming neighborhood of **San Ángel** afterwards for lunch.
+*   **Afternoon (2:30 PM - 6:00 PM): San Ángel & Shopping or Polanco Museums**
+    *   **Option 1 (San Ángel):** Explore **San Ángel**, a beautiful, artistic neighborhood. If it's a Saturday, definitely visit **Bazar Sábado**, an incredible artisan market. Even if it's not Saturday, the area is lovely for a stroll. Do some last-minute souvenir shopping.
+    *   **Option 2 (Polanco Museums):** Head to the upscale Polanco neighborhood to visit the striking **Museo Soumaya** (private collection, free entry, diverse art from Rodin to Dali) and the contemporary **Museo Jumex**.
+*   **Evening (7:00 PM onwards): Farewell Dinner & Speakeasy**
+    *   Choose a final dinner location based on what you've enjoyed most: Condesa for a stylish and lively atmosphere, Roma Norte for innovative cuisine, the Historic Center for a classic send-off, or Polanco for upscale dining.
+    *   Optional: Seek out a speakeasy or a mezcal bar for a sophisticated end to your trip.
+*   **Late Evening:** Head to Mexico City International Airport (MEX) for your departure.
+
+---
+
+### Important Language & Communication Tips for Mexico City:
+
+While many people in tourist-heavy areas speak some English, **making an effort to speak Spanish will greatly enhance your experience** and show respect for the local culture.
+
+1.  **Embrace Basic Spanish – It's Your Best Tool:**
+    *   **Greetings & Politeness:** Always start with *Hola, Buenos días/tardes/noches* (Hello, Good morning/afternoon/evening). Use *Por favor* (Please), *Gracias* (Thank you), *De nada* (You're welcome), and *Disculpe/Con permiso* (Excuse me/Pardon me) constantly. A simple *Lo siento* (I'm sorry) if you make a mistake goes a long way.
+    *   **Ordering Food:** *Quiero/Me gustaría...* (I want/I would like...), *¿Cuánto cuesta?* (How much does it cost?), *La cuenta, por favor* (The check, please). Learn names of common dishes you plan to try (e.g., *taco*, *agua*, *cerveza*, *café*). Specify *Para llevar* (to go) or *Para aquí* (for here).
+    *   **Directions & Transport:** *¿Dónde está...?* (Where is...?), *A la izquierda/derecha* (To the left/right), *Todo recto* (Straight ahead).
+    *   **Numbers:** Crucial for prices, understanding times, and giving quantities.
+    *   **Don't Be Shy:** Even if your Spanish is broken, locals appreciate the effort. Most will be patient and try to understand you.
+
+2.  **Context is Key: English Proficiency Varies:**
+    *   **High-End & Tourist Hubs:** Hotels, fine dining, and major attractions in Polanco, Roma, and Condesa will likely have staff who speak English.
+    *   **Local Markets, Street Vendors, Taxis, Public Transport:** Outside these areas, expect minimal to no English. This is where your basic Spanish is truly invaluable for transactions, asking simple questions, and getting around.
+    *   **Uber/Ride-sharing:** Drivers might not speak English, but the app handles navigation, and you can use the in-app chat with translation features if needed.
+
+3.  **Leverage Technology (But Don't Over-Rely):**
+    *   **Google Translate (or similar):** Download the Spanish language pack for **offline use** before you arrive.
+        *   **Camera Feature:** Excellent for translating menus, signs, or labels quickly.
+        *   **Conversation Mode:** Can be helpful for back-and-forth communication, but it can be slow. Use it as a backup, not your primary communication method.
+
+4.  **Speak Slowly and Clearly; Listen Actively:**
+    *   Mexican Spanish can be spoken quickly. Don't be afraid to ask *¿Puede hablar más despacio, por favor?* (Can you speak more slowly, please?)
+    *   When you speak, try to enunciate clearly. A slower, clear delivery is more effective than fast, mumbled Spanish.
+
+5.  **Be Aware of Cultural Nuances:**
+    *   **Formal "Usted":** It's common and polite to use *usted* (the formal "you") when addressing strangers, especially service staff, elders, or anyone you don't know well. Only use *tú* (informal "you") if invited to do so.
+    *   **Patience and a Smile:** A warm smile and a patient demeanor can smooth over many communication bumps. If you're struggling, show you're trying, and most people will be very helpful.
+    *   **"Buen provecho!"**: People often say this when you are eating, meaning "enjoy your meal!" You can reply with "Gracias."
+    *   **"Ahorita"**: Literally "right now," but often means "a little later" or "in a moment." Embrace the flexibility!
+
+6.  **Essential Phrases:**
+    *   **Hello:** *Hola*
+    *   **Good morning/day:** *Buenos días*
+    *   **Good afternoon/evening:** *Buenas tardes*
+    *   **Good night:** *Buenas noches*
+    *   **Please:** *Por favor*
+    *   **Thank you:** *Gracias*
+    *   **You're welcome:** *De nada*
+    *   **Excuse me (to get attention/pass by):** *Con permiso*
+    *   **Excuse me (to apologize):** *Perdón / Lo siento*
+    *   **Yes / No:** *Sí / No*
+    *   **How much does it cost?:** *¿Cuánto cuesta?*
+    *   **The bill, please:** *La cuenta, por favor*
+    *   **I don't understand:** *No entiendo*
+    *   **Do you speak English?:** *¿Habla inglés?*
+    *   **A little (Spanish):** *Un poco (de español)*
+    *   **Help!:** *¡Ayuda!*
+    *   **Where is...?:** *¿Dónde está...?*
+    *   **Water:** *Agua*
+    *   **Coffee:** *Café*
+    *   **Beer:** *Cerveza*
+    *   **Restroom:** *Baño*
+    *   **Spicy:** *Picante*
+    *   **Not spicy, please:** *No picante, por favor*
+    *   **Delicious!:** *¡Delicioso! / ¡Qué rico!*
+
+Enjoy your incredible trip to Mexico City! ¡Buen viaje!
+
+[System]: messages=[TextMessage(id='2d3b3320-2514-435c-bc2d-ef19490927fd', source='user', models_usage=None, metadata={}, created_at=datetime.datetime(2026, 1, 20, 19, 42, 3, 747923, tzinfo=datetime.timezone.utc), content='Original Request: Plan a 4-day trip to Mexico City. Provide suggestions for activities, places to visit, and language tips.\n\nBelow are suggestions from your team:\n\n--- planner_agent suggestions ---\n¡Qué emoción! Mexico City is a vibrant, bustling metropolis with an incredible mix of ancient history, colonial charm, world-class museums, and a legendary food scene. Four days will give you a fantastic taste of the city.\n\nHere\'s a suggested itinerary, packed with activities, places to visit, and some language tips to help you make the most of your trip:\n\n---\n\n## 4-Day Mexico City Adventure: Culture, Cuisine & Charm\n\n### General Tips Before You Go:\n\n*   **Altitude Sickness:** Mexico City is at over 7,300 feet (2,240 meters). Take it easy on your first day, stay hydrated, and avoid heavy alcohol consumption initially.\n*   **Transportation:** Uber and DiDi are widely available, affordable, and safe. The Metro is efficient but can be crowded, especially during rush hour.\n*   **Safety:** Be aware of your surroundings, especially at night. Keep valuables secure and avoid walking alone in poorly lit areas. Use common sense as you would in any major city.\n*   **Money:** The local currency is the Mexican Peso (MXN). ATMs are widely available. Tipping is customary (10-15% in restaurants, a few pesos for services).\n*   **Pre-Book Tickets:** For popular attractions like the Frida Kahlo Museum (Casa Azul), *definitely* book your tickets online well in advance to avoid long queues or disappointment.\n\n---\n\n### Day 1: Historic Heart & Grand Architecture\n\n**Theme:** Immerse yourself in the history and grandeur of Mexico City\'s colonial past and ancient roots.\n\n*   **Morning (9:00 AM - 1:00 PM): Zócalo & Templo Mayor**\n    *   Start at the **Zócalo** (Plaza de la Constitución), one of the world\'s largest public squares.\n    *   Visit the **Metropolitan Cathedral (Catedral Metropolitana)**, a stunning example of colonial architecture.\n    *   Explore the **Templo Mayor Museum & Ruins**: Discover the excavated ruins of the Aztec capital, Tenochtitlan, right next to the cathedral. A fascinating contrast of civilizations.\n    *   **National Palace (Palacio Nacional):** If open to the public (check beforehand, sometimes it\'s closed for official business), visit to see Diego Rivera\'s incredible murals depicting Mexican history.\n*   **Lunch (1:00 PM - 2:00 PM):** Enjoy traditional Mexican food at a restaurant near the Zócalo, or grab some delicious street food.\n*   **Afternoon (2:00 PM - 5:00 PM): Palacio de Bellas Artes & Torre Latinoamericana**\n    *   Walk along **Avenida Madero**, a vibrant pedestrian street, towards the **Palacio de Bellas Artes**. Admire its stunning Art Deco and Neoclassical architecture. You can enter to see the interior (often hosts art exhibitions or performances) or just enjoy the exterior.\n    *   Across from Bellas Artes, head up the **Torre Latinoamericana** for panoramic views of the entire city – especially beautiful at sunset.\n*   **Evening (6:00 PM onwards): Dinner & Lucha Libre (Optional)**\n    *   **Dinner:** Explore the Centro Histórico for dinner.\n    *   **Optional - Lucha Libre:** If it\'s a Tuesday, Friday, or Sunday, consider catching a thrilling **Lucha Libre** (Mexican wrestling) show at Arena México. It\'s a truly unique cultural experience! (Book tickets through a tour or directly at the arena).\n\n---\n\n### Day 2: Art, Culture & Green Spaces\n\n**Theme:** Delve into pre-Hispanic art, enjoy one of the world\'s largest city parks, and explore trendy neighborhoods.\n\n*   **Morning (9:30 AM - 1:30 PM): Museo Nacional de Antropología**\n    *   Take an Uber/DiDi to **Chapultepec Park (Bosque de Chapultepec)**.\n    *   Spend the morning at the **National Museum of Anthropology (Museo Nacional de Antropología)**. This is one of the best museums in the world, showcasing Mexico\'s pre-Hispanic cultures. You could easily spend half a day here.\n*   **Lunch (1:30 PM - 2:30 PM):** Grab a bite at the museum\'s cafe, or find a restaurant in the nearby Polanco neighborhood.\n*   **Afternoon (2:30 PM - 5:30 PM): Chapultepec Castle & Roma Norte/Condesa**\n    *   **Chapultepec Castle (Castillo de Chapultepec):** If you have energy after the museum, climb up to the beautiful castle, which offers more history and great views.\n    *   **Explore Roma Norte & Condesa:** Take an Uber/DiDi to these charming, tree-lined neighborhoods. Stroll through their streets, admire the Art Deco architecture, browse boutiques, and relax in Parque México or Parque España.\n*   **Evening (6:00 PM onwards): Trendy Dinner & Rooftop Bar**\n    *   **Dinner:** Enjoy dinner at one of the many excellent restaurants in Roma Norte or Condesa, known for their culinary scene.\n    *   **Drinks:** Find a chic rooftop bar in the area for a final drink and enjoy the evening ambiance.\n\n---\n\n### Day 3: Bohemian Charms & Artistic Legacies\n\n**Theme:** Immerse yourself in the bohemian spirit of Coyoacán and the world of Frida Kahlo.\n\n*   **Morning (9:00 AM - 1:00 PM): Coyoacán & Casa Azul**\n    *   Take an Uber/DiDi to the picturesque neighborhood of **Coyoacán**.\n    *   **Museo Frida Kahlo (Casa Azul):** This is a must-see! Explore Frida Kahlo\'s iconic blue house, where she was born, lived, and died. **Crucially, book your tickets online well in advance.**\n    *   After the museum, wander through Coyoacán\'s charming main squares, **Jardín Centenario** and **Plaza Hidalgo**.\n*   **Lunch (1:00 PM - 2:00 PM):** Enjoy Coyoacán\'s culinary delights. Try the tostadas at the Mercado de Coyoacán, or famous churros from El Moro.\n*   **Afternoon (2:00 PM - 5:00 PM): Coyoacán Exploration or San Ángel**\n    *   **Option 1 (Coyoacán Deep Dive):** Continue exploring Coyoacán. Visit the Museo Casa de León Trotsky or simply enjoy the artisan markets and street performers.\n    *   **Option 2 (San Ángel - Saturdays are best):** If it\'s a Saturday, take a short ride to the nearby **San Ángel** neighborhood for its beautiful **Bazar Sábado (Saturday Bazaar)**, featuring crafts, art, and antiques. Even on other days, San Ángel is charming for a stroll.\n*   **Evening (6:00 PM onwards): Relaxed Dinner & Mezcal Tasting**\n    *   **Dinner:** Head back to Roma Norte/Condesa or try a different restaurant in Coyoacán.\n    *   **Drinks:** Consider a mezcal tasting at a dedicated mezcalería to experience this smoky agave spirit.\n\n---\n\n### Day 4: Ancient Pyramids & Departure\n\n**Theme:** Journey to an ancient civilization before heading home.\n\n*   **Morning/Afternoon (8:00 AM - 3:00 PM): Teotihuacan Pyramids**\n    *   This is a half-day trip minimum. You can:\n        *   **Join a guided tour:** Many tours leave from central Mexico City and include transportation.\n        *   **Take a public bus:** Go to the Autobuses del Norte station and look for buses to "Pirámides."\n        *   **Hire an Uber/DiDi:** Agree on a round-trip fare with the driver, as they will wait for you.\n    *   Explore the magnificent **Pyramids of Teotihuacan**, including the Pyramid of the Sun and the Pyramid of the Moon, and walk along the Avenue of the Dead. Try to get there early to beat the crowds and the heat.\n*   **Lunch (3:00 PM - 4:00 PM):** Have lunch near the pyramids (some restaurants are integrated into the complex, or try the famous cave restaurant, "La Gruta") or upon returning to the city.\n*   **Late Afternoon (4:00 PM - 6:00 PM): Last-Minute Souvenirs / Relaxation**\n    *   Depending on your flight schedule, you can do some last-minute souvenir shopping (La Ciudadela artisan market is good for this) or simply relax at a cafe.\n*   **Evening:** Head to Mexico City International Airport (MEX) for your departure.\n\n---\n\n## Language Tips for Mexico City:\n\nWhile many people in tourist areas speak some English, making an effort to speak Spanish will be greatly appreciated and enhance your experience.\n\n**Essential Phrases:**\n\n*   **Hello:** *Hola* (OH-lah)\n*   **Good morning/day:** *Buenos días* (BWEH-nohs DEE-ahs)\n*   **Good afternoon/evening:** *Buenas tardes* (BWEH-nahs TAR-dehs)\n*   **Good night:** *Buenas noches* (BWEH-nahs NOH-chehs)\n*   **Please:** *Por favor* (por fah-VOR)\n*   **Thank you:** *Gracias* (GRAH-see-ahs)\n*   **You\'re welcome:** *De nada* (deh NAH-dah)\n*   **Excuse me (to get attention/pass by):** *Con permiso* (kohn per-MEE-soh)\n*   **Excuse me (to apologize):** *Perdón* (per-DOHN)\n*   **Yes:** *Sí* (see)\n*   **No:** *No* (noh)\n*   **How much does it cost?:** *¿Cuánto cuesta?* (KWAHN-toh KWES-tah?)\n*   **The bill, please:** *La cuenta, por favor* (lah KWEN-tah, por fah-VOR)\n*   **I don\'t understand:** *No entiendo* (noh en-TYEN-doh)\n*   **Do you speak English?:** *¿Habla inglés?* (AH-blah een-GLEHS?)\n*   **A little:** *Un poco* (oon POH-koh)\n*   **Water:** *Agua* (AH-gwah)\n*   **Beer:** *Cerveza* (ser-VEH-sah)\n*   **Coffee:** *Café* (kah-FEH)\n*   **Restroom:** *Baño* (BAH-nyoh)\n*   **Where is...?:** *¿Dónde está...?* (DOHN-deh es-TAH...?)\n*   **To go (for food):** *Para llevar* (PAH-rah yeh-VAR)\n*   **Here/For here (for food):** *Para aquí* (PAH-rah ah-KEE)\n*   **Delicious:** *¡Delicioso!* (deh-lee-SYOH-soh!) or *¡Qué rico!* (keh REE-koh!)\n\n**Cultural Tip:**\n\n*   **Greeting:** It\'s polite to say *Hola* or *Buenos días/tardes/noches* when entering a shop or restaurant, and *Gracias* when leaving.\n*   **Politeness:** Use *por favor* and *gracias* frequently.\n*   **Effort is Key:** Don\'t be afraid to try! Even imperfect Spanish shows respect and willingness to engage. Locals are generally very patient and happy to help.\n\nEnjoy your incredible trip to Mexico City! ¡Buen viaje!\n\n--- local_agent suggestions ---\n¡Qué emoción! Mexico City (CDMX) is an incredible destination, bursting with history, art, incredible food, and vibrant culture. Here\'s a 4-day itinerary designed to give you a taste of its diverse offerings, along with some language tips to help you navigate.\n\n---\n\n## 4-Day Mexico City Adventure: Culture, Cuisine & Charm\n\n### General Tips Before You Go:\n\n*   **Altitude Sickness:** CDMX is over 7,000 feet above sea level. Take it easy on your first day, stay hydrated, and avoid excessive alcohol.\n*   **Transportation:**\n    *   **Uber/DiDi:** Widely available, affordable, and safe for getting around.\n    *   **Metro:** Efficient and very cheap (5 pesos per ride!), but can be crowded, especially during rush hour. It\'s a great way to experience local life.\n    *   **Walking:** Many neighborhoods are very walkable, like Roma, Condesa, and the Historic Center.\n*   **Safety:** Be aware of your surroundings, especially in crowded areas. Keep valuables secure and avoid walking alone late at night in unfamiliar areas.\n*   **Cash:** Have small denominations for street food vendors, market purchases, and tips.\n*   **Water:** Drink bottled water only.\n*   **Book Ahead:** For popular attractions like the Frida Kahlo Museum ("Casa Azul") and some restaurants, reservations are essential.\n*   **Museums:** Most museums are closed on Mondays.\n\n---\n\n### Day 1: Historic Grandeur & Artistic Expressions\n\n**Theme:** The Heart of Mexico, Ancient Roots & Colonial Splendor\n\n*   **Morning (9:00 AM - 1:00 PM): Zócalo & Surrounds**\n    *   Start at the **Zócalo** (Plaza de la Constitución), one of the largest public squares in the world.\n    *   Visit the **Metropolitan Cathedral (Catedral Metropolitana)**, a magnificent colonial structure built over centuries.\n    *   Explore the **Palacio Nacional** (National Palace) to see Diego Rivera\'s incredible murals depicting Mexican history (requires ID, and access can sometimes be restricted).\n    *   Wander through the archaeological site of **Templo Mayor**, the main temple of the Aztec capital, Tenochtitlan, with its excellent museum.\n*   **Lunch (1:00 PM - 2:30 PM): Traditional Mexican Fare**\n    *   Grab some **tacos al pastor** from a bustling street stand near the Zócalo, or try a traditional fonda (small, family-run restaurant) for a *comida corrida* (set lunch menu).\n*   **Afternoon (2:30 PM - 6:00 PM): Art & Architecture**\n    *   Walk to the stunning **Palacio de Bellas Artes** (Palace of Fine Arts). Admire its Art Nouveau and Art Deco architecture from the outside, and consider going inside to see murals by Rivera, Siqueiros, and Orozco, or catch a performance if available.\n    *   Visit the **Palacio de Correos de México** (Main Post Office) for its breathtaking architecture.\n    *   Stroll through **Alameda Central**, a beautiful park adjacent to Bellas Artes.\n*   **Evening (7:00 PM onwards): Dinner & Rooftop Views**\n    *   Enjoy dinner in the Historic Center. For a classic experience with beautiful views, try **El Mayor** (rooftop restaurant above a bookstore, overlooking Templo Mayor).\n    *   Optional: Catch a performance of the **Ballet Folklórico de México** at Bellas Artes (usually Wednesdays and Sundays, book far in advance!).\n\n### Day 2: Culture, Green Spaces & World-Class Museums\n\n**Theme:** Chapultepec Park, Anthropology & Modern Art\n\n*   **Morning (9:30 AM - 1:00 PM): Bosque de Chapultepec & Anthropology**\n    *   Head to **Bosque de Chapultepec**, one of the largest city parks in the world.\n    *   Spend a few hours at the **National Museum of Anthropology (Museo Nacional de Antropología)**. It\'s truly world-class, so prioritize the Aztec (Mexica) and Maya halls.\n*   **Lunch (1:00 PM - 2:30 PM): Casual Park Dining or Polanco**\n    *   There are small food vendors in Chapultepec Park, or you can walk over to the upscale Polanco neighborhood for a more refined lunch.\n*   **Afternoon (2:30 PM - 6:00 PM): History & Views**\n    *   Walk up to **Castillo de Chapultepec (Chapultepec Castle)**, the only royal castle in North America. It offers stunning views of the city and houses the National Museum of History.\n    *   Optional (if time/energy permits): Visit the **Museo Tamayo Arte Contemporáneo** or the **Museo de Arte Moderno** located within Chapultepec Park for a dose of modern art.\n*   **Evening (7:00 PM onwards): Roma Norte Exploration**\n    *   Take an Uber/DiDi to **Roma Norte**. This bohemian neighborhood is full of tree-lined streets, art deco architecture, and fantastic restaurants.\n    *   Walk around the charming **Plaza Río de Janeiro** and **Fuente de Cibeles**.\n    *   Choose from countless trendy restaurants for dinner. Options range from casual taco joints to upscale dining.\n\n### Day 3: Ancient Wonders & Bohemian Charm\n\n**Theme:** Pyramids & Coyoacán\'s Enchanting Streets\n\n*   **Morning (7:00 AM - 2:00 PM): Teotihuacan Pyramids**\n    *   This is an early start but totally worth it!\n    *   **Option 1 (Tour):** Book a guided tour (many include hotel pickup and sometimes a stop at a obsidian workshop or tasting of pulque/mezcal). This is the easiest option.\n    *   **Option 2 (Public Bus):** Take an Uber/DiDi to the **Autobuses del Norte** station. Go to gate 8 ("Pirámides") and buy a ticket for Teotihuacan. Buses leave frequently. The journey is about an hour.\n    *   Spend at least 3-4 hours exploring the **Pyramid of the Sun**, **Pyramid of the Moon**, and the **Avenue of the Dead**. Wear comfortable shoes, a hat, and bring water!\n    *   Have lunch near the pyramids or back in the city.\n*   **Afternoon (3:30 PM - 6:30 PM): Coyoacán\'s Magic**\n    *   Head to the charming colonial neighborhood of **Coyoacán**.\n    *   **Important:** Visit the **Frida Kahlo Museum (Casa Azul)**. You MUST buy tickets online *weeks* in advance; they often sell out. If you don\'t have tickets, you likely won\'t get in.\n    *   Wander through the main squares, **Jardín Centenario** and **Plaza Hidalgo**, admiring the coyote fountain and the historic church.\n    *   Browse the **Mercado de Coyoacán** for crafts, food, and local atmosphere. Try a *tostada* from one of the famous tostada stands.\n*   **Evening (7:00 PM onwards): Coyoacán Dinner & Dessert**\n    *   Enjoy dinner at one of Coyoacán\'s many restaurants, from traditional to modern.\n    *   Don\'t leave without trying a churro from **Churrería El Moro** (they have locations across the city, including Coyoacán, and are open late!).\n\n### Day 4: Colorful Boats, Crafts & Farewell Flavors\n\n**Theme:** Traditional Boats, Markets & Last Bites\n\n*   **Morning (9:00 AM - 1:00 PM): Xochimilco\'s Floating Gardens**\n    *   Take an Uber/DiDi or Metro to **Xochimilco** (approx. 45 min to 1 hour from the city center).\n    *   Hire a colorful **trajinera** (flat-bottomed boat) for a ride through the ancient canals, known as "floating gardens." This is a unique and festive experience, often accompanied by mariachi bands, food vendors, and flower sellers on other boats. You can share a boat with others to reduce costs.\n    *   *Tip:* Agree on the price *before* getting on the boat.\n*   **Lunch (1:00 PM - 2:30 PM): Xochimilco or San Ángel**\n    *   You can buy food from vendors on boats in Xochimilco, or head to the charming neighborhood of **San Ángel** afterwards for lunch.\n*   **Afternoon (2:30 PM - 6:00 PM): San Ángel & Shopping**\n    *   Explore **San Ángel**, a beautiful, artistic neighborhood.\n    *   If it\'s a Saturday, definitely visit **Bazar Sábado**, an incredible artisan market. Even if it\'s not Saturday, the area is lovely for a stroll, with cobblestone streets, colonial mansions, and art galleries.\n    *   Do some last-minute souvenir shopping.\n*   **Evening (7:00 PM onwards): Farewell Dinner & Speakeasy**\n    *   Choose a final dinner location based on what you\'ve enjoyed most:\n        *   **Condesa:** For a stylish and lively atmosphere.\n        *   **Roma Norte:** For innovative cuisine.\n        *   **Historic Center:** For a classic send-off.\n    *   Optional: Seek out a speakeasy or a mezcal bar for a sophisticated end to your trip.\n\n---\n\n### Language Tips for Mexico City:\n\nWhile many people in tourist areas speak some English, knowing a few Spanish phrases will greatly enhance your experience and show respect for the local culture.\n\n**Essential Phrases:**\n\n*   **Hola:** Hello\n*   **Adiós:** Goodbye\n*   **Por favor:** Please\n*   **Gracias:** Thank you\n*   **De nada:** You\'re welcome\n*   **Sí / No:** Yes / No\n*   **Perdón / Con permiso:** Excuse me (to get attention / to pass through a crowd)\n*   **Lo siento:** I\'m sorry\n*   **¿Cuánto cuesta?:** How much does it cost?\n*   **La cuenta, por favor:** The check, please\n*   **¿Dónde está...?:** Where is...?\n*   **Me gustaría...:** I would like...\n*   **No entiendo:** I don\'t understand\n*   **¿Habla inglés?:** Do you speak English?\n*   **Un poco de español:** A little Spanish\n*   **Ayuda:** Help!\n*   **Agua:** Water\n*   **Café:** Coffee\n*   **Cerveza:** Beer\n*   **Taco / Tacos:** Taco / Tacos\n*   **Desayuno / Almuerzo / Cena:** Breakfast / Lunch / Dinner (note: *almuerzo* can be "lunch" or a mid-morning meal, *comida* is often used for lunch in Mexico)\n*   **Picante:** Spicy\n*   **No picante, por favor:** Not spicy, please.\n*   **Izquierda / Derecha / Todo recto:** Left / Right / Straight ahead\n\n**Cultural Nuances:**\n\n*   **Politeness:** Mexicans are very polite. Always start interactions with *Hola* and end with *Gracias*. Adding *Por favor* is essential.\n*   **Diminutives:** You\'ll often hear "ito/ita" added to words (e.g., *ahorita* for "right now" but often meaning "later," *cafecito* for a small coffee). This often softens the request or adds affection.\n*   **Greetings:** A simple nod or "Hola" is fine, but if you\'re interacting more closely, be prepared for a hand-shake or a light kiss on the cheek (between women, or a woman and a man).\n*   **"Buen provecho!"**: People often say this when you are eating, meaning "enjoy your meal!" You can reply with "Gracias."\n*   **Patience:** Things might operate on a slightly different time scale than you\'re used to. Embrace it!\n\n**Pro Tip:** Download an offline Spanish dictionary app or Google Translate for quick lookups. And don\'t be afraid to try your Spanish – locals appreciate the effort!\n\nEnjoy your incredible trip to Mexico City!\n\n--- language_agent suggestions ---\nMexico City, or CDMX as locals call it, is a vibrant, sprawling metropolis brimming with history, art, incredible food, and captivating culture. A 4-day trip allows you to explore its highlights while offering a taste of its diverse neighborhoods.\n\nHere\'s a suggested itinerary, along with critical language and communication tips to enhance your experience:\n\n---\n\n## 4-Day Mexico City Itinerary\n\n### Day 1: Historic Center & Cultural Immersion\n\n*   **Morning (9:00 AM - 1:00 PM): Zócalo & Templo Mayor**\n    *   Start at the **Zócalo**, one of the largest city squares in the world.\n    *   Visit the **Metropolitan Cathedral**, a magnificent colonial structure built over centuries.\n    *   Explore the **National Palace** (if open to visitors, check in advance, often requires ID) to see Diego Rivera\'s powerful murals depicting Mexican history.\n    *   Step back in time at the **Templo Mayor**, the main temple of the Aztec capital, Tenochtitlan, with its fascinating museum of artifacts.\n*   **Lunch (1:00 PM - 2:30 PM): Traditional Mexican Cuisine**\n    *   Grab lunch at a traditional restaurant around the Zócalo, or try some street food like *tacos al pastor* or *tostadas*.\n*   **Afternoon (2:30 PM - 6:00 PM): Palacio de Bellas Artes & Torre Latinoamericana**\n    *   Walk to the stunning **Palacio de Bellas Artes**, an architectural masterpiece housing murals by Rivera, Siqueiros, and Orozco, and often ballet performances. Even if you don\'t go inside for a show, admire its exterior and interior lobby.\n    *   For panoramic views of the city, ascend the **Torre Latinoamericana** for a breathtaking perspective, especially good around sunset.\n*   **Evening (7:00 PM onwards): Dinner & Mariachis (Optional)**\n    *   Enjoy dinner in the Historic Center. For a lively experience, head to **Plaza Garibaldi** (take a taxi/Uber) to listen to mariachi bands, though be mindful of your surroundings.\n\n### Day 2: Art, Parks & Trendy Neighborhoods\n\n*   **Morning (9:30 AM - 1:00 PM): Chapultepec Park & Castillo**\n    *   Take an Uber/Metro to **Chapultepec Park**, one of the largest city parks in the world.\n    *   Ascend to the **Castillo de Chapultepec**, Mexico\'s only royal castle, offering stunning city views and historical exhibits.\n*   **Lunch (1:00 PM - 2:30 PM): Museum of Anthropology**\n    *   Walk to the nearby **National Museum of Anthropology**, one of the best museums globally. Focus on the main Aztec/Maya/Teotihuacan halls, as you could spend days here. The museum also has a great restaurant/cafe.\n*   **Afternoon (3:00 PM - 6:30 PM): Roma Norte & Condesa Exploration**\n    *   Head to the stylish neighborhoods of **Roma Norte** and **Condesa**. Wander through tree-lined streets, admire Art Deco architecture, browse boutique shops, and relax in parks like **Parque México** or **Parque España**.\n*   **Evening (7:00 PM onwards): Dinner in Roma/Condesa**\n    *   These neighborhoods boast some of CDMX\'s best culinary experiences, from casual eateries to high-end dining. Choose a spot that suits your taste.\n\n### Day 3: Frida Kahlo, Coyoacán & Markets\n\n*   **Morning (9:30 AM - 1:00 PM): Coyoacán & Casa Azul**\n    *   Take an Uber/Metro to the charming, bohemian neighborhood of **Coyoacán**.\n    *   Visit the **Frida Kahlo Museum (Casa Azul)**. **Crucial Tip: Book tickets online weeks in advance** as they sell out quickly. It\'s a deeply personal insight into her life and art.\n*   **Lunch (1:00 PM - 2:30 PM): Coyoacán Market & Street Food**\n    *   Explore the bustling **Mercado de Coyoacán** for unique crafts, local produce, and delicious street food like *tostadas* (the market has famous tostada stalls) or *quesadillas*.\n*   **Afternoon (2:30 PM - 5:30 PM): Coyoacán Squares & Trotskys House**\n    *   Stroll through **Jardín Centenario** and **Jardín Hidalgo**, the main squares of Coyoacán, soaking in the relaxed atmosphere. Enjoy a *churro* or coffee.\n    *   Optionally, visit the **Leon Trotsky House Museum**, where the exiled Russian revolutionary lived and was assassinated.\n*   **Evening (6:30 PM onwards): Farewell Dinner or Lucha Libre (Optional)**\n    *   Enjoy a relaxed dinner back in your preferred neighborhood.\n    *   **Optional Thrill:** Catch a **Lucha Libre** (Mexican wrestling) show at Arena México (usually Tuesdays, Fridays, and Sundays). It\'s a vibrant, theatrical spectacle!\n\n### Day 4: Ancient Wonders or Modern Art\n\n*   **Option A: Teotihuacán Pyramids (Half-Day Trip)**\n    *   **Morning (8:00 AM - 3:00 PM):** Take an early bus from Autobuses del Norte (approximately 1 hour each way) or join a guided tour to the awe-inspiring ancient city of **Teotihuacán**.\n    *   Climb the **Pyramid of the Sun** and the **Pyramid of the Moon** (partial climbs sometimes restricted) and walk the **Avenue of the Dead**. Wear comfortable shoes, a hat, and bring water.\n    *   **Lunch:** Eat at one of the restaurants near the archaeological site.\n    *   **Afternoon/Evening:** Return to CDMX for a relaxing dinner.\n\n*   **Option B: Xochimilco OR Museums & Shopping (Within City)**\n    *   **Morning (10:00 AM - 1:00 PM): Xochimilco**\n        *   Take an Uber/light rail to **Xochimilco** for a colorful and unique experience on a *trajinera* (traditional pre-Hispanic boat) through the canals. It\'s a festive atmosphere with mariachis, food vendors, and floating gardens. Best enjoyed with a group.\n    *   **Lunch (1:00 PM - 2:30 PM):** Enjoy food from the floating vendors in Xochimilco or a local restaurant.\n    *   **Afternoon (3:00 PM - 6:00 PM): Museo Soumaya & Jumex Museum**\n        *   Head to the upscale Polanco neighborhood to visit the striking **Museo Soumaya** (private collection, free entry, diverse art from Rodin to Dali) and the contemporary **Museo Jumex**.\n    *   **Evening (7:00 PM onwards): Farewell Dinner in Polanco**\n        *   Polanco offers some of the city\'s most upscale and internationally recognized dining experiences.\n\n---\n\n## Important Language & Communication Tips for Mexico City\n\nWhile many people in tourist-heavy areas (Roma, Condesa, Polanco, major museums) speak some English, **relying solely on English is a mistake and will limit your experience.** Mexicans are generally very appreciative of any effort to speak their language.\n\nHere are critical tips to navigate communication challenges:\n\n1.  **Embrace Basic Spanish – It\'s Your Best Tool:**\n    *   **Greetings & Politeness:** Always start with *Hola, Buenos días/tardes/noches* (Hello, Good morning/afternoon/evening). Use *Por favor* (Please), *Gracias* (Thank you), *De nada* (You\'re welcome), and *Disculpe/Con permiso* (Excuse me/Pardon me) constantly. A simple *Lo siento* (I\'m sorry) if you make a mistake goes a long way.\n    *   **Ordering Food:** *Quiero/Me gustaría...* (I want/I would like...), *¿Cuánto cuesta?* (How much does it cost?), *La cuenta, por favor* (The check, please). Learn names of common dishes you plan to try.\n    *   **Directions & Transport:** *¿Dónde está...?* (Where is...?), *A la izquierda/derecha* (To the left/right), *Derecho* (Straight). For taxis/Uber: *A esta dirección, por favor* (To this address, please).\n    *   **Numbers:** Crucial for prices, understanding times, and giving quantities. Practice 1-100.\n    *   **Don\'t Be Shy:** Even if your Spanish is broken, locals appreciate the effort. Most will be patient and try to understand you.\n\n2.  **Context is Key: English Proficiency Varies Wildly:**\n    *   **High-End & Tourist Hubs:** Hotels, fine dining, and major attractions in Polanco, Roma, and Condesa will likely have staff who speak English.\n    *   **Local Markets, Street Vendors, Taxis, Public Transport:** Outside these areas, expect minimal to no English. This is where your basic Spanish is truly invaluable for transactions, asking simple questions, and getting around.\n    *   **Uber/Ride-sharing:** Drivers might not speak English, but the app handles navigation, and you can use the in-app chat with translation features if needed.\n\n3.  **Leverage Technology (But Don\'t Over-Rely):**\n    *   **Google Translate (or similar):** Download the Spanish language pack for **offline use** before you arrive.\n        *   **Camera Feature:** Excellent for translating menus, signs, or labels quickly.\n        *   **Conversation Mode:** Can be helpful for back-and-forth communication, but it can be slow and sometimes clunky. Use it as a backup, not your primary communication method.\n    *   **Phrasebooks:** A small physical phrasebook can be useful if your phone battery dies or if you prefer a non-digital approach.\n\n4.  **Speak Slowly and Clearly; Listen Actively:**\n    *   Mexican Spanish can be spoken quickly. Don\'t be afraid to ask *¿Puede hablar más despacio, por favor?* (Can you speak more slowly, please?)\n    *   When you speak, try to enunciate clearly. A slower, clear delivery is more effective than fast, mumbled Spanish.\n\n5.  **Be Aware of Cultural Nuances (Formality Matters):**\n    *   **Formal "Usted":** It\'s common and polite to use *usted* (the formal "you") when addressing strangers, especially service staff, elders, or anyone you don\'t know well. Only use *tú* (informal "you") if invited to do so.\n    *   **Patience and a Smile:** A warm smile and a patient demeanor can smooth over many communication bumps. If you\'re struggling, show you\'re trying, and most people will be very helpful.\n\n6.  **Critical Emergency Phrases:**\n    *   Learn these just in case:\n        *   *¡Ayuda!* (Help!)\n        *   *¡Emergencia!* (Emergency!)\n        *   *Doctor* (Doctor)\n        *   *Hospital* (Hospital)\n        *   *Policía* (Police)\n        *   *Necesito ayuda* (I need help)\n    *   Have your hotel name and address written down, along with an emergency contact number (if applicable) in Spanish.\n\nBy combining these practical tips with your willingness to engage, you\'ll find navigating Mexico City not only manageable but also a much richer and more rewarding experience! ¡Que disfrutes tu viaje! (Enjoy your trip!)\n\nPlease compile these into a cohesive response.', type='TextMessage'), TextMessage(id='d2ed2bbe-1070-4362-91ce-8f71fcd9a204', source='travel_summary_agent', models_usage=RequestUsage(prompt_tokens=8043, completion_tokens=4236), metadata={}, created_at=datetime.datetime(2026, 1, 20, 19, 42, 31, 860064, tzinfo=datetime.timezone.utc), content='Here is a detailed and integrated 4-day travel plan for your trip to Mexico City, combining all the excellent suggestions from your team. This plan balances historical immersion, artistic exploration, culinary delights, and unique cultural experiences.\n\n---\n\n## 4-Day Mexico City Adventure: Culture, Cuisine & Charm\n\n### General Tips Before You Go:\n\n*   **Altitude Sickness:** Mexico City sits over 7,300 feet (2,240 meters) above sea level. Take it easy on your first day, stay well-hydrated, and avoid heavy alcohol consumption initially.\n*   **Transportation:** **Uber** and **DiDi** are widely available, affordable, and safe for getting around. The **Metro** is efficient and very cheap (5 pesos per ride!), but can be crowded, especially during rush hour. Many neighborhoods, like Roma, Condesa, and the Historic Center, are very walkable.\n*   **Safety:** As with any major city, be aware of your surroundings, especially in crowded areas and at night. Keep valuables secure and avoid walking alone in poorly lit or unfamiliar areas. Use common sense.\n*   **Money:** The local currency is the Mexican Peso (MXN). ATMs are widely available. Have small denominations (pesos) for street food vendors, market purchases, and tips. Tipping is customary (10-15% in restaurants, a few pesos for services).\n*   **Pre-Book Tickets:** **Crucially, book tickets online well in advance** for popular attractions like the **Frida Kahlo Museum (Casa Azul)**, as they often sell out weeks ahead. Consider booking for the **Ballet Folklórico de México** or **Lucha Libre** if interested.\n*   **Museums:** Most museums in Mexico City are **closed on Mondays**.\n*   **Water:** Drink bottled water only.\n\n---\n\n### Day 1: Historic Heart & Grand Architecture\n\n**Theme:** Immerse yourself in the history and grandeur of Mexico City\'s colonial past and ancient roots.\n\n*   **Morning (9:00 AM - 1:00 PM): Zócalo & Templo Mayor**\n    *   Begin at the **Zócalo** (Plaza de la Constitución), one of the world\'s largest public squares.\n    *   Visit the magnificent **Metropolitan Cathedral (Catedral Metropolitana)**, a stunning example of colonial architecture built over centuries.\n    *   Explore the **Templo Mayor Museum & Ruins**: Discover the excavated ruins of the Aztec capital, Tenochtitlan, right next to the cathedral. A fascinating contrast of civilizations.\n    *   **National Palace (Palacio Nacional):** If open to the public (check beforehand, as it sometimes closes for official business; requires ID), visit to see Diego Rivera\'s incredible murals depicting Mexican history.\n*   **Lunch (1:00 PM - 2:30 PM): Traditional Mexican Fare**\n    *   Enjoy traditional Mexican food at a restaurant near the Zócalo. Options include grabbing delicious **tacos al pastor** from a bustling street stand, trying a traditional *fonda* (small, family-run restaurant) for a *comida corrida* (set lunch menu), or enjoying the rooftop views and cuisine at **El Mayor** (above a bookstore, overlooking Templo Mayor).\n*   **Afternoon (2:30 PM - 6:00 PM): Palacio de Bellas Artes & Torre Latinoamericana**\n    *   Stroll along **Avenida Madero**, a vibrant pedestrian street, towards the stunning **Palacio de Bellas Artes**. Admire its Art Nouveau and Art Deco architecture. You can enter to see the interior murals by Rivera, Siqueiros, and Orozco, or just enjoy the exterior.\n    *   Visit the breathtaking architecture of the **Palacio de Correos de México** (Main Post Office) nearby.\n    *   Walk through **Alameda Central**, a beautiful park adjacent to Bellas Artes.\n    *   Across from Bellas Artes, head up the **Torre Latinoamericana** for panoramic views of the entire city – especially beautiful around sunset.\n*   **Evening (7:00 PM onwards): Dinner & Cultural Show (Optional)**\n    *   **Dinner:** Explore the Historic Center for dinner.\n    *   **Optional - Ballet Folklórico de México:** If it\'s a Wednesday or Sunday, consider catching a performance of the **Ballet Folklórico de México** at Bellas Artes. **Book tickets far in advance!**\n    *   **Optional - Lucha Libre:** If it\'s a Tuesday, Friday, or Sunday, consider catching a thrilling **Lucha Libre** (Mexican wrestling) show at Arena México. It\'s a truly unique, vibrant cultural experience! (Book tickets through a tour or directly at the arena).\n    *   **Optional - Plaza Garibaldi:** For a lively experience, head to Plaza Garibaldi (take an Uber/taxi) to listen to mariachi bands, but be mindful of your surroundings.\n\n### Day 2: Art, Culture & Green Spaces\n\n**Theme:** Delve into pre-Hispanic art, enjoy one of the world\'s largest city parks, and explore trendy neighborhoods.\n\n*   **Morning (9:30 AM - 1:30 PM): Museo Nacional de Antropología**\n    *   Take an Uber/DiDi to **Chapultepec Park (Bosque de Chapultepec)**.\n    *   Spend the morning at the **National Museum of Anthropology (Museo Nacional de Antropología)**. This is one of the best museums in the world, showcasing Mexico\'s pre-Hispanic cultures. Prioritize the Aztec (Mexica) and Maya halls, and plan for at least 3-4 hours here.\n*   **Lunch (1:30 PM - 2:30 PM): Park Dining or Polanco**\n    *   Grab a bite at the museum\'s cafe, from small food vendors in Chapultepec Park, or walk over to the upscale Polanco neighborhood for a more refined lunch.\n*   **Afternoon (2:30 PM - 5:30 PM): Chapultepec Castle & Roma Norte/Condesa**\n    *   **Chapultepec Castle (Castillo de Chapultepec):** If you have energy after the museum, climb up to the beautiful castle, which houses the National Museum of History and offers more history and great views of the city.\n    *   **Explore Roma Norte & Condesa:** Take an Uber/DiDi to these charming, tree-lined neighborhoods. Stroll through their streets, admire the Art Deco and colonial architecture, browse boutiques, and relax in **Parque México** or **Parque España**. Check out **Plaza Río de Janeiro** and **Fuente de Cibeles**.\n*   **Evening (6:00 PM onwards): Trendy Dinner & Rooftop Bar**\n    *   **Dinner:** Enjoy dinner at one of the many excellent restaurants in Roma Norte or Condesa, known for their vibrant culinary scene, from casual taco joints to upscale dining.\n    *   **Drinks:** Find a chic rooftop bar in the area for a final drink and enjoy the evening ambiance.\n\n### Day 3: Bohemian Charms & Artistic Legacies\n\n**Theme:** Immerse yourself in the bohemian spirit of Coyoacán and the world of Frida Kahlo.\n\n*   **Morning (9:00 AM - 1:00 PM): Coyoacán & Casa Azul**\n    *   Take an Uber/DiDi to the picturesque neighborhood of **Coyoacán**.\n    *   **Museo Frida Kahlo (Casa Azul):** This is a must-see! Explore Frida Kahlo\'s iconic blue house, where she was born, lived, and died. **Crucially, book your tickets online *weeks* in advance; they often sell out.** If you don\'t have tickets, you likely won\'t get in.\n    *   After the museum, wander through Coyoacán\'s charming main squares, **Jardín Centenario** and **Plaza Hidalgo**, admiring the coyote fountain and historic church.\n*   **Lunch (1:00 PM - 2:30 PM): Coyoacán\'s Culinary Delights**\n    *   Explore the bustling **Mercado de Coyoacán** for unique crafts, local produce, and delicious street food. Try the famous *tostadas* at the market, or grab a tasty *quesadilla*.\n    *   Don\'t leave without trying churros from **Churrería El Moro** (they have locations across the city, including Coyoacán, and are open late!).\n*   **Afternoon (2:30 PM - 5:30 PM): Coyoacán Exploration or San Ángel**\n    *   **Option 1 (Coyoacán Deep Dive):** Continue exploring Coyoacán. Visit the **Museo Casa de León Trotsky** (where the exiled Russian revolutionary lived and was assassinated) or simply enjoy the artisan markets and street performers.\n    *   **Option 2 (San Ángel - Saturdays are best):** If it\'s a Saturday, take a short ride to the nearby **San Ángel** neighborhood for its beautiful **Bazar Sábado (Saturday Bazaar)**, featuring crafts, art, and antiques. Even on other days, San Ángel is charming for a stroll, with cobblestone streets, colonial mansions, and art galleries.\n*   **Evening (6:30 PM onwards): Relaxed Dinner & Mezcal Tasting**\n    *   **Dinner:** Head back to Roma Norte/Condesa, or try a different restaurant in Coyoacán.\n    *   **Drinks:** Consider a mezcal tasting at a dedicated *mezcalería* to experience this smoky agave spirit.\n\n### Day 4: Ancient Pyramids or Floating Gardens & Departure\n\n**Theme:** Journey to an ancient civilization or experience traditional boats and markets before heading home.\n\nChoose the option that best suits your interests and flight schedule:\n\n---\n\n**Option A: Teotihuacan Pyramids (Half-Day Trip)**\n\n*   **Morning/Afternoon (8:00 AM - 3:00 PM): Teotihuacan Pyramids**\n    *   This is a half-day trip minimum, and an early start is highly recommended to beat the crowds and heat.\n    *   **Transportation:**\n        *   **Join a guided tour:** Many tours leave from central Mexico City and include transportation. This is the easiest option.\n        *   **Take a public bus:** Go to the Autobuses del Norte station, head to gate 8, and look for buses to "Pirámides." Buses leave frequently, and the journey is about an hour.\n        *   **Hire an Uber/DiDi:** Agree on a round-trip fare with the driver, as they will wait for you.\n    *   Explore the magnificent **Pyramids of Teotihuacan**, including the Pyramid of the Sun and the Pyramid of the Moon, and walk along the Avenue of the Dead. Wear comfortable shoes, a hat, and bring water.\n*   **Lunch (3:00 PM - 4:00 PM):** Have lunch near the pyramids (some restaurants are integrated into the complex, or try the famous cave restaurant, "La Gruta") or upon returning to the city.\n*   **Late Afternoon (4:00 PM - 6:00 PM): Last-Minute Souvenirs / Relaxation**\n    *   Depending on your flight schedule, you can do some last-minute souvenir shopping (La Ciudadela artisan market is good for this) or simply relax at a cafe.\n*   **Evening:** Head to Mexico City International Airport (MEX) for your departure.\n\n---\n\n**Option B: Xochimilco & San Ángel/Museums (Within City)**\n\n*   **Morning (9:00 AM - 1:00 PM): Xochimilco\'s Floating Gardens**\n    *   Take an Uber/DiDi or Metro to **Xochimilco** (approx. 45 min to 1 hour from the city center).\n    *   Hire a colorful **trajinera** (flat-bottomed boat) for a ride through the ancient canals, known as "floating gardens." This is a unique and festive experience, often accompanied by mariachi bands, food vendors, and flower sellers on other boats. You can share a boat with others to reduce costs. **Tip:** Agree on the price *before* getting on the boat.\n*   **Lunch (1:00 PM - 2:30 PM): Xochimilco or San Ángel**\n    *   You can buy food from vendors on boats in Xochimilco, or head to the charming neighborhood of **San Ángel** afterwards for lunch.\n*   **Afternoon (2:30 PM - 6:00 PM): San Ángel & Shopping or Polanco Museums**\n    *   **Option 1 (San Ángel):** Explore **San Ángel**, a beautiful, artistic neighborhood. If it\'s a Saturday, definitely visit **Bazar Sábado**, an incredible artisan market. Even if it\'s not Saturday, the area is lovely for a stroll. Do some last-minute souvenir shopping.\n    *   **Option 2 (Polanco Museums):** Head to the upscale Polanco neighborhood to visit the striking **Museo Soumaya** (private collection, free entry, diverse art from Rodin to Dali) and the contemporary **Museo Jumex**.\n*   **Evening (7:00 PM onwards): Farewell Dinner & Speakeasy**\n    *   Choose a final dinner location based on what you\'ve enjoyed most: Condesa for a stylish and lively atmosphere, Roma Norte for innovative cuisine, the Historic Center for a classic send-off, or Polanco for upscale dining.\n    *   Optional: Seek out a speakeasy or a mezcal bar for a sophisticated end to your trip.\n*   **Late Evening:** Head to Mexico City International Airport (MEX) for your departure.\n\n---\n\n### Important Language & Communication Tips for Mexico City:\n\nWhile many people in tourist-heavy areas speak some English, **making an effort to speak Spanish will greatly enhance your experience** and show respect for the local culture.\n\n1.  **Embrace Basic Spanish – It\'s Your Best Tool:**\n    *   **Greetings & Politeness:** Always start with *Hola, Buenos días/tardes/noches* (Hello, Good morning/afternoon/evening). Use *Por favor* (Please), *Gracias* (Thank you), *De nada* (You\'re welcome), and *Disculpe/Con permiso* (Excuse me/Pardon me) constantly. A simple *Lo siento* (I\'m sorry) if you make a mistake goes a long way.\n    *   **Ordering Food:** *Quiero/Me gustaría...* (I want/I would like...), *¿Cuánto cuesta?* (How much does it cost?), *La cuenta, por favor* (The check, please). Learn names of common dishes you plan to try (e.g., *taco*, *agua*, *cerveza*, *café*). Specify *Para llevar* (to go) or *Para aquí* (for here).\n    *   **Directions & Transport:** *¿Dónde está...?* (Where is...?), *A la izquierda/derecha* (To the left/right), *Todo recto* (Straight ahead).\n    *   **Numbers:** Crucial for prices, understanding times, and giving quantities.\n    *   **Don\'t Be Shy:** Even if your Spanish is broken, locals appreciate the effort. Most will be patient and try to understand you.\n\n2.  **Context is Key: English Proficiency Varies:**\n    *   **High-End & Tourist Hubs:** Hotels, fine dining, and major attractions in Polanco, Roma, and Condesa will likely have staff who speak English.\n    *   **Local Markets, Street Vendors, Taxis, Public Transport:** Outside these areas, expect minimal to no English. This is where your basic Spanish is truly invaluable for transactions, asking simple questions, and getting around.\n    *   **Uber/Ride-sharing:** Drivers might not speak English, but the app handles navigation, and you can use the in-app chat with translation features if needed.\n\n3.  **Leverage Technology (But Don\'t Over-Rely):**\n    *   **Google Translate (or similar):** Download the Spanish language pack for **offline use** before you arrive.\n        *   **Camera Feature:** Excellent for translating menus, signs, or labels quickly.\n        *   **Conversation Mode:** Can be helpful for back-and-forth communication, but it can be slow. Use it as a backup, not your primary communication method.\n\n4.  **Speak Slowly and Clearly; Listen Actively:**\n    *   Mexican Spanish can be spoken quickly. Don\'t be afraid to ask *¿Puede hablar más despacio, por favor?* (Can you speak more slowly, please?)\n    *   When you speak, try to enunciate clearly. A slower, clear delivery is more effective than fast, mumbled Spanish.\n\n5.  **Be Aware of Cultural Nuances:**\n    *   **Formal "Usted":** It\'s common and polite to use *usted* (the formal "you") when addressing strangers, especially service staff, elders, or anyone you don\'t know well. Only use *tú* (informal "you") if invited to do so.\n    *   **Patience and a Smile:** A warm smile and a patient demeanor can smooth over many communication bumps. If you\'re struggling, show you\'re trying, and most people will be very helpful.\n    *   **"Buen provecho!"**: People often say this when you are eating, meaning "enjoy your meal!" You can reply with "Gracias."\n    *   **"Ahorita"**: Literally "right now," but often means "a little later" or "in a moment." Embrace the flexibility!\n\n6.  **Essential Phrases:**\n    *   **Hello:** *Hola*\n    *   **Good morning/day:** *Buenos días*\n    *   **Good afternoon/evening:** *Buenas tardes*\n    *   **Good night:** *Buenas noches*\n    *   **Please:** *Por favor*\n    *   **Thank you:** *Gracias*\n    *   **You\'re welcome:** *De nada*\n    *   **Excuse me (to get attention/pass by):** *Con permiso*\n    *   **Excuse me (to apologize):** *Perdón / Lo siento*\n    *   **Yes / No:** *Sí / No*\n    *   **How much does it cost?:** *¿Cuánto cuesta?*\n    *   **The bill, please:** *La cuenta, por favor*\n    *   **I don\'t understand:** *No entiendo*\n    *   **Do you speak English?:** *¿Habla inglés?*\n    *   **A little (Spanish):** *Un poco (de español)*\n    *   **Help!:** *¡Ayuda!*\n    *   **Where is...?:** *¿Dónde está...?*\n    *   **Water:** *Agua*\n    *   **Coffee:** *Café*\n    *   **Beer:** *Cerveza*\n    *   **Restroom:** *Baño*\n    *   **Spicy:** *Picante*\n    *   **Not spicy, please:** *No picante, por favor*\n    *   **Delicious!:** *¡Delicioso! / ¡Qué rico!*\n\nEnjoy your incredible trip to Mexico City! ¡Buen viaje!', type='TextMessage')] stop_reason=None

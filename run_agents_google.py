@@ -19,22 +19,14 @@ if not os.getenv("GOOGLE_API_KEY"):
     sys.exit(1)
 
 from autogen_agentchat.agents import AssistantAgent
-from autogen_agentchat.conditions import TextMentionTermination
-from autogen_agentchat.teams import RoundRobinGroupChat
 from autogen_agentchat.ui import Console
 from autogen_ext.models.openai import OpenAIChatCompletionClient
 from autogen_core.models import ModelFamily
 
 async def main():
-    # Try a few candidate Gemini model ids until one works (handles quota/restrictions)
-    candidate_models = [
-        "models/gemini-2.5-flash-lite",
-        "models/gemini-2.5-flash",
-        "models/gemini-flash-latest",
-        "models/gemini-pro-latest",
-        "models/gemini-2.5-pro",
-    ]
-
+    # Configure Gemini 2.5 Flash model
+    model_name = "models/gemini-2.5-flash"
+    
     # Provide minimal model_info so AutoGen knows these are Gemini models
     model_info = {
         "vision": False,
@@ -45,26 +37,19 @@ async def main():
         "multiple_system_messages": True,
     }
 
-    model_client = None
-    last_exc = None
-    for candidate in candidate_models:
-        try:
-            print(f"Attempting model: {candidate}")
-            model_client = OpenAIChatCompletionClient(
-                model=candidate,
-                api_key=os.getenv("GOOGLE_API_KEY"),
-                base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
-                model_info=model_info,
-            )
-            break
-        except Exception as e:
-            last_exc = e
-            print(f"Model {candidate} failed to initialize: {e}")
-
-    if model_client is None:
-        print("Failed to create any model client:", last_exc)
+    try:
+        print(f"Initializing model: {model_name}")
+        model_client = OpenAIChatCompletionClient(
+            model=model_name,
+            api_key=os.getenv("GOOGLE_API_KEY"),
+            base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
+            model_info=model_info,
+        )
+    except Exception as e:
+        print(f"Failed to create model client: {e}")
         return
 
+    # Define the specialist agents
     planner_agent = AssistantAgent(
         "planner_agent",
         model_client=model_client,
@@ -89,28 +74,54 @@ async def main():
         ),
     )
 
+    # Define the summary agent
     travel_summary_agent = AssistantAgent(
         "travel_summary_agent",
         model_client=model_client,
         description="A helpful assistant that can summarize the travel plan.",
         system_message=(
             "You are a helpful assistant that can take in all of the suggestions and advice from the other agents and provide a detailed final travel plan. "
-            "You must ensure that the final plan is integrated and complete. YOUR FINAL RESPONSE MUST BE THE COMPLETE PLAN. When the plan is complete and all perspectives are integrated, you can respond with TERMINATE."
+            "You must ensure that the final plan is integrated and complete. YOUR FINAL RESPONSE MUST BE THE COMPLETE PLAN."
         ),
     )
 
-    termination = TextMentionTermination("TERMINATE")
+    task = "Plan a 5-day trip to Mexico City. Provide suggestions for activities, places to visit, and language tips."
 
-    team = RoundRobinGroupChat(
-        participants=[planner_agent, local_agent, language_agent, travel_summary_agent],
-        termination_condition=termination,
-    )
-
-    print("Starting agents run (this may take a few seconds)...")
+    print("Starting agents run in parallel (this may take a few seconds)...")
     try:
-        await Console(team.run_stream(task="Plan a 5-day trip to Mexico City. Provide suggestions for activities, places to visit, and language tips."))
+        # Run specialist agents in parallel
+        # We use .run() for the specialists to get their full response primarily
+        print("dispatching tasks to specialists...")
+        results = await asyncio.gather(
+            planner_agent.run(task=task),
+            local_agent.run(task=task),
+            language_agent.run(task=task)
+        )
+
+        # Collect their responses
+        collected_context = []
+        for res in results:
+            if res.messages:
+                last_msg = res.messages[-1]
+                collected_context.append(f"--- {last_msg.source} suggestions ---\n{last_msg.content}")
+
+        aggregated_info = "\n\n".join(collected_context)
+        
+        print("Parallel agents finished. Generating summary...")
+
+        # Pass the collected information to the summary agent for the final plan
+        summary_task = (
+            f"Original Request: {task}\n\n"
+            f"Below are suggestions from your team:\n\n{aggregated_info}\n\n"
+            "Please compile these into a cohesive 5-day itinerary."
+        )
+
+        await Console(travel_summary_agent.run_stream(task=summary_task))
+
     except Exception as e:
         print("Error while running agents:", e)
+        import traceback
+        traceback.print_exc()
 
 if __name__ == "__main__":
     asyncio.run(main())

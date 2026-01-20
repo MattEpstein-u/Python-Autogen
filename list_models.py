@@ -3,7 +3,7 @@ import sys
 import json
 import requests
 
-api_key = "AIzaSyC_DvpSty1ScEfUmDfkFJZuJ1PUzKy5XQo"
+api_key = "AIzaSyBr-ammVrDIF0iFEo8jNoYll70hUJ6vecQ"
 if not api_key:
     print("ERROR: GOOGLE_API_KEY environment variable is not set.")
     sys.exit(1)
